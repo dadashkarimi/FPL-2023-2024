@@ -20,6 +20,13 @@ Evaluated the models' performance metrics such as Mean Squared Error (MSE), Accu
 Recommendations
 Based on the models' predictions and historical analysis, we provide a list of recommended transfer candidates for the upcoming game week. These suggestions are derived from the analysis of player rankings and performance predictions.
 
+|      | LGBM      | Lasso     | CNN       |
+|------|-----------|-----------|-----------|
+| 15   | 4.47      | 14.38     | 2.12      |
+| 16   | 3.53      | 12.69     | 1.95      |
+| 17   | 4.42      | 6.58      | 2.12      |
+| 18   | 2.63      | 7.04      | 1.49      |
+
 ## Usage
 Requirements:
 Python 3.x
