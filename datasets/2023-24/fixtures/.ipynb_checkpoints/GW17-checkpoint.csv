@@ -1,0 +1,766 @@
+,id,name,cost,position,home_team,away_team,kickoff_time,is_home,team_x
+0,1,Folarin Balogun,44,FWD,Liverpool,Arsenal,2023-12-23T17:30:00Z,False,Arsenal
+1,2,Cédric Alves Soares,39,DEF,Liverpool,Arsenal,2023-12-23T17:30:00Z,False,Arsenal
+2,3,Mohamed Elneny,44,MID,Liverpool,Arsenal,2023-12-23T17:30:00Z,False,Arsenal
+3,4,Fábio Ferreira Vieira,54,MID,Liverpool,Arsenal,2023-12-23T17:30:00Z,False,Arsenal
+4,5,Gabriel dos Santos Magalhães,49,DEF,Liverpool,Arsenal,2023-12-23T17:30:00Z,False,Arsenal
+5,6,Kai Havertz,71,MID,Liverpool,Arsenal,2023-12-23T17:30:00Z,False,Arsenal
+6,8,Gabriel Fernando de Jesus,79,FWD,Liverpool,Arsenal,2023-12-23T17:30:00Z,False,Arsenal
+7,9,Jorge Luiz Frello Filho,53,MID,Liverpool,Arsenal,2023-12-23T17:30:00Z,False,Arsenal
+8,10,Jakub Kiwior,43,DEF,Liverpool,Arsenal,2023-12-23T17:30:00Z,False,Arsenal
+9,11,Marcus Oliveira Alencar,45,MID,Liverpool,Arsenal,2023-12-23T17:30:00Z,False,Arsenal
+10,12,Gabriel Martinelli Silva,77,MID,Liverpool,Arsenal,2023-12-23T17:30:00Z,False,Arsenal
+11,13,Eddie Nketiah,54,FWD,Liverpool,Arsenal,2023-12-23T17:30:00Z,False,Arsenal
+12,14,Martin Ødegaard,84,MID,Liverpool,Arsenal,2023-12-23T17:30:00Z,False,Arsenal
+13,15,Thomas Partey,48,MID,Liverpool,Arsenal,2023-12-23T17:30:00Z,False,Arsenal
+14,16,Nicolas Pépé,49,MID,Liverpool,Arsenal,2023-12-23T17:30:00Z,False,Arsenal
+15,17,Aaron Ramsdale,46,GKP,Liverpool,Arsenal,2023-12-23T17:30:00Z,False,Arsenal
+16,18,Rúnar Alex Rúnarsson,40,GKP,Liverpool,Arsenal,2023-12-23T17:30:00Z,False,Arsenal
+17,19,Bukayo Saka,90,MID,Liverpool,Arsenal,2023-12-23T17:30:00Z,False,Arsenal
+18,20,William Saliba,55,DEF,Liverpool,Arsenal,2023-12-23T17:30:00Z,False,Arsenal
+19,22,Emile Smith Rowe,53,MID,Liverpool,Arsenal,2023-12-23T17:30:00Z,False,Arsenal
+20,24,Kieran Tierney,44,DEF,Liverpool,Arsenal,2023-12-23T17:30:00Z,False,Arsenal
+21,25,Takehiro Tomiyasu,45,DEF,Liverpool,Arsenal,2023-12-23T17:30:00Z,False,Arsenal
+22,26,Leandro Trossard,65,MID,Liverpool,Arsenal,2023-12-23T17:30:00Z,False,Arsenal
+23,29,Benjamin White,56,DEF,Liverpool,Arsenal,2023-12-23T17:30:00Z,False,Arsenal
+24,30,Granit Xhaka,60,MID,Liverpool,Arsenal,2023-12-23T17:30:00Z,False,Arsenal
+25,31,Oleksandr Zinchenko,52,DEF,Liverpool,Arsenal,2023-12-23T17:30:00Z,False,Arsenal
+26,113,David Raya Martin,49,GKP,Liverpool,Arsenal,2023-12-23T17:30:00Z,False,Arsenal
+27,540,Declan Rice,54,MID,Liverpool,Arsenal,2023-12-23T17:30:00Z,False,Arsenal
+28,578,Reiss Nelson,49,MID,Liverpool,Arsenal,2023-12-23T17:30:00Z,False,Arsenal
+29,585,Jurriën Timber,46,DEF,Liverpool,Arsenal,2023-12-23T17:30:00Z,False,Arsenal
+30,646,Karl Hein,40,GKP,Liverpool,Arsenal,2023-12-23T17:30:00Z,False,Arsenal
+31,735,Charles Sagoe,45,MID,Liverpool,Arsenal,2023-12-23T17:30:00Z,False,Arsenal
+32,736,Reuell Walters,40,DEF,Liverpool,Arsenal,2023-12-23T17:30:00Z,False,Arsenal
+33,737,Bradley Ibrahim,45,MID,Liverpool,Arsenal,2023-12-23T17:30:00Z,False,Arsenal
+34,764,Myles Lewis-Skelly,45,MID,Liverpool,Arsenal,2023-12-23T17:30:00Z,False,Arsenal
+35,32,Alexandre Moreno Lopera,50,DEF,Aston Villa,Sheffield Utd,2023-12-22T20:00:00Z,True,Aston Villa
+36,34,Leon Bailey,56,MID,Aston Villa,Sheffield Utd,2023-12-22T20:00:00Z,True,Aston Villa
+37,35,Emiliano Buendía Stati,57,MID,Aston Villa,Sheffield Utd,2023-12-22T20:00:00Z,True,Aston Villa
+38,36,Matty Cash,47,DEF,Aston Villa,Sheffield Utd,2023-12-22T20:00:00Z,True,Aston Villa
+39,37,Calum Chambers,39,DEF,Aston Villa,Sheffield Utd,2023-12-22T20:00:00Z,True,Aston Villa
+40,38,Philippe Coutinho Correia,58,MID,Aston Villa,Sheffield Utd,2023-12-22T20:00:00Z,True,Aston Villa
+41,39,Keinan Davis,49,FWD,Aston Villa,Sheffield Utd,2023-12-22T20:00:00Z,True,Aston Villa
+42,40,Leander Dendoncker,49,MID,Aston Villa,Sheffield Utd,2023-12-22T20:00:00Z,True,Aston Villa
+43,41,Diego Carlos Santos Silva,44,DEF,Aston Villa,Sheffield Utd,2023-12-22T20:00:00Z,True,Aston Villa
+44,42,Lucas Digne,47,DEF,Aston Villa,Sheffield Utd,2023-12-22T20:00:00Z,True,Aston Villa
+45,43,Douglas Luiz Soares de Paulo,55,MID,Aston Villa,Sheffield Utd,2023-12-22T20:00:00Z,True,Aston Villa
+46,44,Jhon Durán,50,FWD,Aston Villa,Sheffield Utd,2023-12-22T20:00:00Z,True,Aston Villa
+47,45,Kortney Hause,40,DEF,Aston Villa,Sheffield Utd,2023-12-22T20:00:00Z,True,Aston Villa
+48,46,Tim Iroegbunam,44,MID,Aston Villa,Sheffield Utd,2023-12-22T20:00:00Z,True,Aston Villa
+49,47,Boubacar Kamara,50,MID,Aston Villa,Sheffield Utd,2023-12-22T20:00:00Z,True,Aston Villa
+50,48,Ezri Konsa Ngoyo,45,DEF,Aston Villa,Sheffield Utd,2023-12-22T20:00:00Z,True,Aston Villa
+51,49,Emiliano Martínez Romero,51,GKP,Aston Villa,Sheffield Utd,2023-12-22T20:00:00Z,True,Aston Villa
+52,50,John McGinn,55,MID,Aston Villa,Sheffield Utd,2023-12-22T20:00:00Z,True,Aston Villa
+53,51,Tyrone Mings,41,DEF,Aston Villa,Sheffield Utd,2023-12-22T20:00:00Z,True,Aston Villa
+54,53,Robin Olsen,39,GKP,Aston Villa,Sheffield Utd,2023-12-22T20:00:00Z,True,Aston Villa
+55,54,Jaden Philogene-Bidace,45,MID,Aston Villa,Sheffield Utd,2023-12-22T20:00:00Z,True,Aston Villa
+56,55,Jacob Ramsey,59,MID,Aston Villa,Sheffield Utd,2023-12-22T20:00:00Z,True,Aston Villa
+57,56,Morgan Sanson,45,MID,Aston Villa,Sheffield Utd,2023-12-22T20:00:00Z,True,Aston Villa
+58,57,Viljami Sinisalo,40,GKP,Aston Villa,Sheffield Utd,2023-12-22T20:00:00Z,True,Aston Villa
+59,58,Youri Tielemans,56,MID,Aston Villa,Sheffield Utd,2023-12-22T20:00:00Z,True,Aston Villa
+60,59,Bertrand Traoré,50,MID,Aston Villa,Sheffield Utd,2023-12-22T20:00:00Z,True,Aston Villa
+61,60,Ollie Watkins,86,FWD,Aston Villa,Sheffield Utd,2023-12-22T20:00:00Z,True,Aston Villa
+62,61,Wesley Moraes Ferreira da Silva,50,FWD,Aston Villa,Sheffield Utd,2023-12-22T20:00:00Z,True,Aston Villa
+63,584,Pau Torres,47,DEF,Aston Villa,Sheffield Utd,2023-12-22T20:00:00Z,True,Aston Villa
+64,599,Moussa Diaby,67,MID,Aston Villa,Sheffield Utd,2023-12-22T20:00:00Z,True,Aston Villa
+65,618,Omari Kellyman,45,MID,Aston Villa,Sheffield Utd,2023-12-22T20:00:00Z,True,Aston Villa
+66,670,Filip Marschall,40,GKP,Aston Villa,Sheffield Utd,2023-12-22T20:00:00Z,True,Aston Villa
+67,672,Nicolò Zaniolo,54,MID,Aston Villa,Sheffield Utd,2023-12-22T20:00:00Z,True,Aston Villa
+68,686,Oliwier Zych,40,GKP,Aston Villa,Sheffield Utd,2023-12-22T20:00:00Z,True,Aston Villa
+69,699,Clément Lenglet,45,DEF,Aston Villa,Sheffield Utd,2023-12-22T20:00:00Z,True,Aston Villa
+70,765,Sam Proctor,40,GKP,Aston Villa,Sheffield Utd,2023-12-22T20:00:00Z,True,Aston Villa
+71,62,Jaidon Anthony,49,MID,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,False,Bournemouth
+72,63,Philip Billing,52,MID,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,False,Bournemouth
+73,64,David Brooks,48,MID,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,False,Bournemouth
+74,65,Ryan Christie,50,MID,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,False,Bournemouth
+75,66,Lewis Cook,50,MID,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,False,Bournemouth
+76,67,Siriki Dembélé,45,MID,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,False,Bournemouth
+77,68,Ryan Fredericks,43,DEF,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,False,Bournemouth
+78,69,James Hill,40,DEF,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,False,Bournemouth
+79,70,Lloyd Kelly,45,DEF,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,False,Bournemouth
+80,71,Gavin Kilkenny,43,MID,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,False,Bournemouth
+81,72,Justin Kluivert,46,MID,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,False,Bournemouth
+82,73,Jamal Lowe,49,MID,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,False,Bournemouth
+83,74,Emiliano Marcondes,43,MID,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,False,Bournemouth
+84,75,Chris Mepham,43,DEF,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,False,Bournemouth
+85,76,Kieffer Moore,47,FWD,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,False,Bournemouth
+86,77,Norberto Murara Neto,46,GKP,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,False,Bournemouth
+87,78,Dango Ouattara,47,MID,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,False,Bournemouth
+88,79,Ben Pearson,45,MID,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,False,Bournemouth
+89,80,Darren Randolph,40,GKP,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,False,Bournemouth
+90,81,Joe Rothwell,48,MID,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,False,Bournemouth
+91,82,Antoine Semenyo,46,FWD,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,False,Bournemouth
+92,83,Marcos Senesi,44,DEF,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,False,Bournemouth
+93,84,Adam Smith,44,DEF,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,False,Bournemouth
+94,85,Dominic Solanke,68,FWD,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,False,Bournemouth
+95,86,Marcus Tavernier,54,MID,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,False,Bournemouth
+96,87,Hamed Traorè,47,MID,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,False,Bournemouth
+97,88,Mark Travers,40,GKP,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,False,Bournemouth
+98,89,Illia Zabarnyi,44,DEF,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,False,Bournemouth
+99,595,Milos Kerkez,44,DEF,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,False,Bournemouth
+100,607,Ionuț Radu,44,GKP,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,False,Bournemouth
+101,619,Ben Greenwood,40,DEF,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,False,Bournemouth
+102,643,Max Aarons,44,DEF,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,False,Bournemouth
+103,644,Alex Scott,49,MID,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,False,Bournemouth
+104,673,Tyler Adams,49,MID,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,False,Bournemouth
+105,705,Luis Sinisterra,55,MID,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,False,Bournemouth
+106,90,Kristoffer Ajer,45,DEF,Brentford,Wolves,2023-12-27T19:30:00Z,True,Brentford
+107,91,Ellery Balcombe,39,GKP,Brentford,Wolves,2023-12-27T19:30:00Z,True,Brentford
+108,92,Shandon Baptiste,43,MID,Brentford,Wolves,2023-12-27T19:30:00Z,True,Brentford
+109,93,Mads Bech Sørensen,40,DEF,Brentford,Wolves,2023-12-27T19:30:00Z,True,Brentford
+110,94,Mads Bidstrup,45,MID,Brentford,Wolves,2023-12-27T19:30:00Z,True,Brentford
+111,95,Sergi Canós Tenés,50,MID,Brentford,Wolves,2023-12-27T19:30:00Z,True,Brentford
+112,96,Nathan Collins,45,DEF,Brentford,Wolves,2023-12-27T19:30:00Z,True,Brentford
+113,97,Matthew Cox,40,GKP,Brentford,Wolves,2023-12-27T19:30:00Z,True,Brentford
+114,98,Mikkel Damsgaard,48,MID,Brentford,Wolves,2023-12-27T19:30:00Z,True,Brentford
+115,99,Josh Dasilva,47,MID,Brentford,Wolves,2023-12-27T19:30:00Z,True,Brentford
+116,100,Halil Dervişoğlu,45,FWD,Brentford,Wolves,2023-12-27T19:30:00Z,True,Brentford
+117,101,Mark Flekken,45,GKP,Brentford,Wolves,2023-12-27T19:30:00Z,True,Brentford
+118,102,Charlie Goode,39,DEF,Brentford,Wolves,2023-12-27T19:30:00Z,True,Brentford
+119,103,Rico Henry,43,DEF,Brentford,Wolves,2023-12-27T19:30:00Z,True,Brentford
+120,104,Aaron Hickey,44,DEF,Brentford,Wolves,2023-12-27T19:30:00Z,True,Brentford
+121,105,Vitaly Janelt,53,MID,Brentford,Wolves,2023-12-27T19:30:00Z,True,Brentford
+122,106,Mathias Jensen,54,MID,Brentford,Wolves,2023-12-27T19:30:00Z,True,Brentford
+123,107,Keane Lewis-Potter,47,MID,Brentford,Wolves,2023-12-27T19:30:00Z,True,Brentford
+124,108,Bryan Mbeumo,69,MID,Brentford,Wolves,2023-12-27T19:30:00Z,True,Brentford
+125,109,Ben Mee,48,DEF,Brentford,Wolves,2023-12-27T19:30:00Z,True,Brentford
+126,110,Christian Nørgaard,54,MID,Brentford,Wolves,2023-12-27T19:30:00Z,True,Brentford
+127,111,Frank Onyeka,49,MID,Brentford,Wolves,2023-12-27T19:30:00Z,True,Brentford
+128,112,Ethan Pinnock,46,DEF,Brentford,Wolves,2023-12-27T19:30:00Z,True,Brentford
+129,114,Mads Roerslev Rasmussen,44,DEF,Brentford,Wolves,2023-12-27T19:30:00Z,True,Brentford
+130,115,Kevin Schade,53,MID,Brentford,Wolves,2023-12-27T19:30:00Z,True,Brentford
+131,116,Thomas Strakosha,39,GKP,Brentford,Wolves,2023-12-27T19:30:00Z,True,Brentford
+132,117,Ivan Toney,79,FWD,Brentford,Wolves,2023-12-27T19:30:00Z,True,Brentford
+133,118,Ryan Trevitt,45,MID,Brentford,Wolves,2023-12-27T19:30:00Z,True,Brentford
+134,119,Yoane Wissa,58,FWD,Brentford,Wolves,2023-12-27T19:30:00Z,True,Brentford
+135,120,Yegor Yarmoliuk,44,MID,Brentford,Wolves,2023-12-27T19:30:00Z,True,Brentford
+136,121,Mathias Jorgensen,43,DEF,Brentford,Wolves,2023-12-27T19:30:00Z,True,Brentford
+137,258,Neal Maupay,49,FWD,Brentford,Wolves,2023-12-27T19:30:00Z,True,Brentford
+138,620,Michael Olakigbe,45,MID,Brentford,Wolves,2023-12-27T19:30:00Z,True,Brentford
+139,684,Ethan Brierley,45,MID,Brentford,Wolves,2023-12-27T19:30:00Z,True,Brentford
+140,701,Saman Ghoddos,45,MID,Brentford,Wolves,2023-12-27T19:30:00Z,True,Brentford
+141,725,Ji-Soo Kim,40,DEF,Brentford,Wolves,2023-12-27T19:30:00Z,True,Brentford
+142,733,Valintino Adedokun,40,DEF,Brentford,Wolves,2023-12-27T19:30:00Z,True,Brentford
+143,744,Myles Peart-Harris,45,MID,Brentford,Wolves,2023-12-27T19:30:00Z,True,Brentford
+144,752,Vincent Angelini,40,GKP,Brentford,Wolves,2023-12-27T19:30:00Z,True,Brentford
+145,122,Simon Adingra,50,MID,Crystal Palace,Brighton,2023-12-21T20:00:00Z,False,Brighton
+146,123,Steven Alzate,44,MID,Crystal Palace,Brighton,2023-12-21T20:00:00Z,False,Brighton
+147,124,Yasin Ayari,45,MID,Crystal Palace,Brighton,2023-12-21T20:00:00Z,False,Brighton
+148,125,Facundo Buonanotte,47,MID,Crystal Palace,Brighton,2023-12-21T20:00:00Z,False,Brighton
+149,127,Aaron Connolly,45,FWD,Crystal Palace,Brighton,2023-12-21T20:00:00Z,False,Brighton
+150,128,Mahmoud Dahoud,48,MID,Crystal Palace,Brighton,2023-12-21T20:00:00Z,False,Brighton
+151,129,Lewis Dunk,50,DEF,Crystal Palace,Brighton,2023-12-21T20:00:00Z,False,Brighton
+152,130,Julio Enciso,51,MID,Crystal Palace,Brighton,2023-12-21T20:00:00Z,False,Brighton
+153,131,Pervis Estupiñán,50,DEF,Crystal Palace,Brighton,2023-12-21T20:00:00Z,False,Brighton
+154,132,Evan Ferguson,60,FWD,Crystal Palace,Brighton,2023-12-21T20:00:00Z,False,Brighton
+155,133,Billy Gilmour,49,MID,Crystal Palace,Brighton,2023-12-21T20:00:00Z,False,Brighton
+156,134,Pascal Groß,64,MID,Crystal Palace,Brighton,2023-12-21T20:00:00Z,False,Brighton
+157,135,João Pedro Junqueira de Jesus,54,FWD,Crystal Palace,Brighton,2023-12-21T20:00:00Z,False,Brighton
+158,136,Michał Karbownik,40,DEF,Crystal Palace,Brighton,2023-12-21T20:00:00Z,False,Brighton
+159,137,Kacper Kozłowski,45,MID,Crystal Palace,Brighton,2023-12-21T20:00:00Z,False,Brighton
+160,138,Adam Lallana,49,MID,Crystal Palace,Brighton,2023-12-21T20:00:00Z,False,Brighton
+161,139,Tariq Lamptey,40,DEF,Crystal Palace,Brighton,2023-12-21T20:00:00Z,False,Brighton
+162,140,Solly March,61,MID,Crystal Palace,Brighton,2023-12-21T20:00:00Z,False,Brighton
+163,141,Tom McGill,39,GKP,Crystal Palace,Brighton,2023-12-21T20:00:00Z,False,Brighton
+164,142,James Milner,48,MID,Crystal Palace,Brighton,2023-12-21T20:00:00Z,False,Brighton
+165,143,Kaoru Mitoma,65,MID,Crystal Palace,Brighton,2023-12-21T20:00:00Z,False,Brighton
+166,144,Jakub Moder,44,MID,Crystal Palace,Brighton,2023-12-21T20:00:00Z,False,Brighton
+167,146,Jeremy Sarmiento Morante,45,MID,Crystal Palace,Brighton,2023-12-21T20:00:00Z,False,Brighton
+168,147,Kjell Scherpen,40,GKP,Crystal Palace,Brighton,2023-12-21T20:00:00Z,False,Brighton
+169,148,Jason Steele,43,GKP,Crystal Palace,Brighton,2023-12-21T20:00:00Z,False,Brighton
+170,149,Deniz Undav,55,FWD,Crystal Palace,Brighton,2023-12-21T20:00:00Z,False,Brighton
+171,150,Jan Paul van Hecke,40,DEF,Crystal Palace,Brighton,2023-12-21T20:00:00Z,False,Brighton
+172,151,Joël Veltman,44,DEF,Crystal Palace,Brighton,2023-12-21T20:00:00Z,False,Brighton
+173,152,Bart Verbruggen,44,GKP,Crystal Palace,Brighton,2023-12-21T20:00:00Z,False,Brighton
+174,153,Adam Webster,42,DEF,Crystal Palace,Brighton,2023-12-21T20:00:00Z,False,Brighton
+175,154,Danny Welbeck,57,FWD,Crystal Palace,Brighton,2023-12-21T20:00:00Z,False,Brighton
+176,155,Andi Zeqiri,44,FWD,Crystal Palace,Brighton,2023-12-21T20:00:00Z,False,Brighton
+177,606,Igor Julio dos Santos de Paulo,43,DEF,Crystal Palace,Brighton,2023-12-21T20:00:00Z,False,Brighton
+178,621,Jack Hinshelwood,45,MID,Crystal Palace,Brighton,2023-12-21T20:00:00Z,False,Brighton
+179,690,Carlos Baleba,45,MID,Crystal Palace,Brighton,2023-12-21T20:00:00Z,False,Brighton
+180,700,Anssumane Fati Vieira,64,MID,Crystal Palace,Brighton,2023-12-21T20:00:00Z,False,Brighton
+181,741,Mark O’Mahony,45,FWD,Crystal Palace,Brighton,2023-12-21T20:00:00Z,False,Brighton
+182,742,Benicio Baker-Boaitey,45,MID,Crystal Palace,Brighton,2023-12-21T20:00:00Z,False,Brighton
+183,746,Ben Jackson,40,DEF,Crystal Palace,Brighton,2023-12-21T20:00:00Z,False,Brighton
+184,747,Joshua Duffus,45,MID,Crystal Palace,Brighton,2023-12-21T20:00:00Z,False,Brighton
+185,753,Leigh Kavanagh,40,DEF,Crystal Palace,Brighton,2023-12-21T20:00:00Z,False,Brighton
+186,755,Luca Barrington,45,MID,Crystal Palace,Brighton,2023-12-21T20:00:00Z,False,Brighton
+187,156,Enock Agyei,43,MID,Fulham,Burnley,2023-12-23T15:00:00Z,False,Burnley
+188,157,Ameen Al-Dakhil,39,DEF,Fulham,Burnley,2023-12-23T15:00:00Z,False,Burnley
+189,158,Samuel Bastien,49,MID,Fulham,Burnley,2023-12-23T15:00:00Z,False,Burnley
+190,159,Manuel Benson Hedilazio,52,MID,Fulham,Burnley,2023-12-23T15:00:00Z,False,Burnley
+191,160,Jordan Beyer,40,DEF,Fulham,Burnley,2023-12-23T15:00:00Z,False,Burnley
+192,161,Josh Brownhill,47,MID,Fulham,Burnley,2023-12-23T15:00:00Z,False,Burnley
+193,162,Darko Churlinov,44,MID,Fulham,Burnley,2023-12-23T15:00:00Z,False,Burnley
+194,163,Jack Cork,48,MID,Fulham,Burnley,2023-12-23T15:00:00Z,False,Burnley
+195,164,Dara Costelloe,45,MID,Fulham,Burnley,2023-12-23T15:00:00Z,False,Burnley
+196,165,Josh Cullen,50,MID,Fulham,Burnley,2023-12-23T15:00:00Z,False,Burnley
+197,166,CJ Egan-Riley,39,DEF,Fulham,Burnley,2023-12-23T15:00:00Z,False,Burnley
+198,167,Hjalmar Ekdal,39,DEF,Fulham,Burnley,2023-12-23T15:00:00Z,False,Burnley
+199,168,Lyle Foster,48,FWD,Fulham,Burnley,2023-12-23T15:00:00Z,False,Burnley
+200,169,Denis Franchi,39,GKP,Fulham,Burnley,2023-12-23T15:00:00Z,False,Burnley
+201,170,Jóhann Berg Gudmundsson,48,MID,Fulham,Burnley,2023-12-23T15:00:00Z,False,Burnley
+202,171,Luke McNally,40,DEF,Fulham,Burnley,2023-12-23T15:00:00Z,False,Burnley
+203,172,Arijanet Muric,43,GKP,Fulham,Burnley,2023-12-23T15:00:00Z,False,Burnley
+204,173,Dara O'Shea,44,DEF,Fulham,Burnley,2023-12-23T15:00:00Z,False,Burnley
+205,174,Michael Obafemi,49,FWD,Fulham,Burnley,2023-12-23T15:00:00Z,False,Burnley
+206,175,Bailey Peacock-Farrell,40,GKP,Fulham,Burnley,2023-12-23T15:00:00Z,False,Burnley
+207,176,Connor Roberts,43,DEF,Fulham,Burnley,2023-12-23T15:00:00Z,False,Burnley
+208,177,Jay Rodriguez,53,FWD,Fulham,Burnley,2023-12-23T15:00:00Z,False,Burnley
+209,178,Charlie Taylor,40,DEF,Fulham,Burnley,2023-12-23T15:00:00Z,False,Burnley
+210,179,Bobby Thomas,40,DEF,Fulham,Burnley,2023-12-23T15:00:00Z,False,Burnley
+211,180,Scott Twine,49,MID,Fulham,Burnley,2023-12-23T15:00:00Z,False,Burnley
+212,181,Lawrence Vigouroux,39,GKP,Fulham,Burnley,2023-12-23T15:00:00Z,False,Burnley
+213,182,Victor da Silva,44,DEF,Fulham,Burnley,2023-12-23T15:00:00Z,False,Burnley
+214,183,Wout Weghorst,55,FWD,Fulham,Burnley,2023-12-23T15:00:00Z,False,Burnley
+215,184,Anass Zaroury,47,MID,Fulham,Burnley,2023-12-23T15:00:00Z,False,Burnley
+216,475,Sander Berge,47,MID,Fulham,Burnley,2023-12-23T15:00:00Z,False,Burnley
+217,594,Zeki Amdouni,53,FWD,Fulham,Burnley,2023-12-23T15:00:00Z,False,Burnley
+218,596,James Trafford,45,GKP,Fulham,Burnley,2023-12-23T15:00:00Z,False,Burnley
+219,600,Nathan Redmond,48,MID,Fulham,Burnley,2023-12-23T15:00:00Z,False,Burnley
+220,605,Luca Koleosho,49,MID,Fulham,Burnley,2023-12-23T15:00:00Z,False,Burnley
+221,608,Jacob Bruun Larsen,49,MID,Fulham,Burnley,2023-12-23T15:00:00Z,False,Burnley
+222,622,Owen Dodgson,40,DEF,Fulham,Burnley,2023-12-23T15:00:00Z,False,Burnley
+223,660,Wilson Odobert,50,MID,Fulham,Burnley,2023-12-23T15:00:00Z,False,Burnley
+224,674,Hannes Delcroix,40,DEF,Fulham,Burnley,2023-12-23T15:00:00Z,False,Burnley
+225,675,Aaron Ramsey,50,MID,Fulham,Burnley,2023-12-23T15:00:00Z,False,Burnley
+226,694,Han-Noah Massengo,50,MID,Fulham,Burnley,2023-12-23T15:00:00Z,False,Burnley
+227,706,Mike Trésor,54,MID,Fulham,Burnley,2023-12-23T15:00:00Z,False,Burnley
+228,126,Moisés Caicedo Corozo,46,MID,Wolves,Chelsea,2023-12-24T13:00:00Z,False,Chelsea
+229,145,Robert Sánchez,47,GKP,Wolves,Chelsea,2023-12-24T13:00:00Z,False,Chelsea
+230,185,Ethan Ampadu,40,DEF,Wolves,Chelsea,2023-12-24T13:00:00Z,False,Chelsea
+231,187,Kepa Arrizabalaga,50,GKP,Wolves,Chelsea,2023-12-24T13:00:00Z,False,Chelsea
+232,188,Pierre-Emerick Aubameyang,65,FWD,Wolves,Chelsea,2023-12-24T13:00:00Z,False,Chelsea
+233,189,César Azpilicueta,45,DEF,Wolves,Chelsea,2023-12-24T13:00:00Z,False,Chelsea
+234,190,Abdul Rahman Baba,40,DEF,Wolves,Chelsea,2023-12-24T13:00:00Z,False,Chelsea
+235,191,Benoît Badiashile,44,DEF,Wolves,Chelsea,2023-12-24T13:00:00Z,False,Chelsea
+236,192,Marcus Bettinelli,40,GKP,Wolves,Chelsea,2023-12-24T13:00:00Z,False,Chelsea
+237,193,Armando Broja,49,FWD,Wolves,Chelsea,2023-12-24T13:00:00Z,False,Chelsea
+238,194,Trevoh Chalobah,43,DEF,Wolves,Chelsea,2023-12-24T13:00:00Z,False,Chelsea
+239,195,Ben Chilwell,54,DEF,Wolves,Chelsea,2023-12-24T13:00:00Z,False,Chelsea
+240,196,Carney Chukwuemeka,42,MID,Wolves,Chelsea,2023-12-24T13:00:00Z,False,Chelsea
+241,197,Levi Colwill,46,DEF,Wolves,Chelsea,2023-12-24T13:00:00Z,False,Chelsea
+242,198,Marc Cucurella Saseta,48,DEF,Wolves,Chelsea,2023-12-24T13:00:00Z,False,Chelsea
+243,199,Enzo Fernández,48,MID,Wolves,Chelsea,2023-12-24T13:00:00Z,False,Chelsea
+244,200,David Datro Fofana,50,FWD,Wolves,Chelsea,2023-12-24T13:00:00Z,False,Chelsea
+245,201,Wesley Fofana,44,DEF,Wolves,Chelsea,2023-12-24T13:00:00Z,False,Chelsea
+246,202,Conor Gallagher,54,MID,Wolves,Chelsea,2023-12-24T13:00:00Z,False,Chelsea
+247,203,Malo Gusto,41,DEF,Wolves,Chelsea,2023-12-24T13:00:00Z,False,Chelsea
+248,206,Reece James,54,DEF,Wolves,Chelsea,2023-12-24T13:00:00Z,False,Chelsea
+249,207,Romelu Lukaku Bolingoli,68,FWD,Wolves,Chelsea,2023-12-24T13:00:00Z,False,Chelsea
+250,208,Noni Madueke,53,MID,Wolves,Chelsea,2023-12-24T13:00:00Z,False,Chelsea
+251,210,Mykhailo Mudryk,63,MID,Wolves,Chelsea,2023-12-24T13:00:00Z,False,Chelsea
+252,211,Nicolas Jackson,69,FWD,Wolves,Chelsea,2023-12-24T13:00:00Z,False,Chelsea
+253,212,Christopher Nkunku,73,FWD,Wolves,Chelsea,2023-12-24T13:00:00Z,False,Chelsea
+254,213,Christian Pulisic,55,MID,Wolves,Chelsea,2023-12-24T13:00:00Z,False,Chelsea
+255,214,Malang Sarr,43,DEF,Wolves,Chelsea,2023-12-24T13:00:00Z,False,Chelsea
+256,215,Gabriel Słonina,40,GKP,Wolves,Chelsea,2023-12-24T13:00:00Z,False,Chelsea
+257,216,Raheem Sterling,71,MID,Wolves,Chelsea,2023-12-24T13:00:00Z,False,Chelsea
+258,217,Thiago Emiliano da Silva,50,DEF,Wolves,Chelsea,2023-12-24T13:00:00Z,False,Chelsea
+259,218,Hakim Ziyech,54,MID,Wolves,Chelsea,2023-12-24T13:00:00Z,False,Chelsea
+260,362,Cole Palmer,56,MID,Wolves,Chelsea,2023-12-24T13:00:00Z,False,Chelsea
+261,589,Ângelo Gabriel Borges Damaceno,50,MID,Wolves,Chelsea,2023-12-24T13:00:00Z,False,Chelsea
+262,609,Ian Maatsen,51,MID,Wolves,Chelsea,2023-12-24T13:00:00Z,False,Chelsea
+263,611,Axel Disasi,49,DEF,Wolves,Chelsea,2023-12-24T13:00:00Z,False,Chelsea
+264,613,Lesley Ugochukwu,44,MID,Wolves,Chelsea,2023-12-24T13:00:00Z,False,Chelsea
+265,623,Mason Burstow,45,FWD,Wolves,Chelsea,2023-12-24T13:00:00Z,False,Chelsea
+266,659,Lucas Bergström,40,GKP,Wolves,Chelsea,2023-12-24T13:00:00Z,False,Chelsea
+267,667,Roméo Lavia,49,MID,Wolves,Chelsea,2023-12-24T13:00:00Z,False,Chelsea
+268,671,Bashir Humphreys,40,DEF,Wolves,Chelsea,2023-12-24T13:00:00Z,False,Chelsea
+269,677,Deivid Washington de Souza Eugênio,45,FWD,Wolves,Chelsea,2023-12-24T13:00:00Z,False,Chelsea
+270,680,Eddie Beach,40,GKP,Wolves,Chelsea,2023-12-24T13:00:00Z,False,Chelsea
+271,681,Diego Manuel Jadon da Silva Moreira,45,MID,Wolves,Chelsea,2023-12-24T13:00:00Z,False,Chelsea
+272,687,Djordje Petrovic,45,GKP,Wolves,Chelsea,2023-12-24T13:00:00Z,False,Chelsea
+273,716,Alfie Gilchrist,40,DEF,Wolves,Chelsea,2023-12-24T13:00:00Z,False,Chelsea
+274,717,Ronnie Stutter,45,FWD,Wolves,Chelsea,2023-12-24T13:00:00Z,False,Chelsea
+275,718,Alex Matos,45,MID,Wolves,Chelsea,2023-12-24T13:00:00Z,False,Chelsea
+276,723,Josh Brooking,40,DEF,Wolves,Chelsea,2023-12-24T13:00:00Z,False,Chelsea
+277,758,Leo Castledine,45,MID,Wolves,Chelsea,2023-12-24T13:00:00Z,False,Chelsea
+278,7,Rob Holding,43,DEF,Crystal Palace,Brighton,2023-12-21T20:00:00Z,True,Crystal Palace
+279,219,Naouirou Ahamada,43,MID,Crystal Palace,Brighton,2023-12-21T20:00:00Z,True,Crystal Palace
+280,220,Joachim Andersen,50,DEF,Crystal Palace,Brighton,2023-12-21T20:00:00Z,True,Crystal Palace
+281,221,Jordan Ayew,54,MID,Crystal Palace,Brighton,2023-12-21T20:00:00Z,True,Crystal Palace
+282,222,Nathaniel Clyne,44,DEF,Crystal Palace,Brighton,2023-12-21T20:00:00Z,True,Crystal Palace
+283,223,Cheick Doucouré,49,MID,Crystal Palace,Brighton,2023-12-21T20:00:00Z,True,Crystal Palace
+284,224,Malcolm Ebiowei,45,MID,Crystal Palace,Brighton,2023-12-21T20:00:00Z,True,Crystal Palace
+285,225,Odsonne Edouard,55,FWD,Crystal Palace,Brighton,2023-12-21T20:00:00Z,True,Crystal Palace
+286,226,Eberechi Eze,60,MID,Crystal Palace,Brighton,2023-12-21T20:00:00Z,True,Crystal Palace
+287,227,Vicente Guaita,44,GKP,Crystal Palace,Brighton,2023-12-21T20:00:00Z,True,Crystal Palace
+288,228,Marc Guéhi,45,DEF,Crystal Palace,Brighton,2023-12-21T20:00:00Z,True,Crystal Palace
+289,229,Will Hughes,49,MID,Crystal Palace,Brighton,2023-12-21T20:00:00Z,True,Crystal Palace
+290,230,Sam Johnstone,46,GKP,Crystal Palace,Brighton,2023-12-21T20:00:00Z,True,Crystal Palace
+291,231,Jefferson Lerma Solís,47,MID,Crystal Palace,Brighton,2023-12-21T20:00:00Z,True,Crystal Palace
+292,232,Jean-Philippe Mateta,49,FWD,Crystal Palace,Brighton,2023-12-21T20:00:00Z,True,Crystal Palace
+293,233,Remi Matthews,39,GKP,Crystal Palace,Brighton,2023-12-21T20:00:00Z,True,Crystal Palace
+294,234,Tyrick Mitchell,47,DEF,Crystal Palace,Brighton,2023-12-21T20:00:00Z,True,Crystal Palace
+295,235,Jake O'Brien,40,DEF,Crystal Palace,Brighton,2023-12-21T20:00:00Z,True,Crystal Palace
+296,236,Michael Olise,58,MID,Crystal Palace,Brighton,2023-12-21T20:00:00Z,True,Crystal Palace
+297,237,Luke Plange,45,FWD,Crystal Palace,Brighton,2023-12-21T20:00:00Z,True,Crystal Palace
+298,238,Chris Richards,39,DEF,Crystal Palace,Brighton,2023-12-21T20:00:00Z,True,Crystal Palace
+299,239,Jairo Riedewald,44,MID,Crystal Palace,Brighton,2023-12-21T20:00:00Z,True,Crystal Palace
+300,240,Jeffrey Schlupp,49,MID,Crystal Palace,Brighton,2023-12-21T20:00:00Z,True,Crystal Palace
+301,241,James Tomkins,40,DEF,Crystal Palace,Brighton,2023-12-21T20:00:00Z,True,Crystal Palace
+302,242,Joel Ward,45,DEF,Crystal Palace,Brighton,2023-12-21T20:00:00Z,True,Crystal Palace
+303,243,Joe Whitworth,40,GKP,Crystal Palace,Brighton,2023-12-21T20:00:00Z,True,Crystal Palace
+304,385,Dean Henderson,44,GKP,Crystal Palace,Brighton,2023-12-21T20:00:00Z,True,Crystal Palace
+305,615,Matheus França de Oliveira,49,MID,Crystal Palace,Brighton,2023-12-21T20:00:00Z,True,Crystal Palace
+306,657,Jesurun Rak-Sakyi,45,MID,Crystal Palace,Brighton,2023-12-21T20:00:00Z,True,Crystal Palace
+307,658,John-Kymani Gordon,45,FWD,Crystal Palace,Brighton,2023-12-21T20:00:00Z,True,Crystal Palace
+308,720,Ademola Ola-Adebomi,45,FWD,Crystal Palace,Brighton,2023-12-21T20:00:00Z,True,Crystal Palace
+309,721,David Ozoh,45,MID,Crystal Palace,Brighton,2023-12-21T20:00:00Z,True,Crystal Palace
+310,724,Jadan Raymond,45,MID,Crystal Palace,Brighton,2023-12-21T20:00:00Z,True,Crystal Palace
+311,763,Tayo Adaramola,40,DEF,Crystal Palace,Brighton,2023-12-21T20:00:00Z,True,Crystal Palace
+312,244,André Tavares Gomes,44,MID,Spurs,Everton,2023-12-23T15:00:00Z,False,Everton
+313,245,Jarrad Branthwaite,41,DEF,Spurs,Everton,2023-12-23T15:00:00Z,False,Everton
+314,246,Dominic Calvert-Lewin,58,FWD,Spurs,Everton,2023-12-23T15:00:00Z,False,Everton
+315,247,Seamus Coleman,44,DEF,Spurs,Everton,2023-12-23T15:00:00Z,False,Everton
+316,248,Dele Alli,48,MID,Spurs,Everton,2023-12-23T15:00:00Z,False,Everton
+317,249,Abdoulaye Doucouré,56,MID,Spurs,Everton,2023-12-23T15:00:00Z,False,Everton
+318,250,James Garner,49,MID,Spurs,Everton,2023-12-23T15:00:00Z,False,Everton
+319,251,Jean-Philippe Gbamin,44,MID,Spurs,Everton,2023-12-23T15:00:00Z,False,Everton
+320,252,Ben Godfrey,43,DEF,Spurs,Everton,2023-12-23T15:00:00Z,False,Everton
+321,253,Demarai Gray,53,MID,Spurs,Everton,2023-12-23T15:00:00Z,False,Everton
+322,254,Idrissa Gueye,48,MID,Spurs,Everton,2023-12-23T15:00:00Z,False,Everton
+323,255,Mason Holgate,40,DEF,Spurs,Everton,2023-12-23T15:00:00Z,False,Everton
+324,257,Michael Keane,43,DEF,Spurs,Everton,2023-12-23T15:00:00Z,False,Everton
+325,259,Dwight McNeil,54,MID,Spurs,Everton,2023-12-23T15:00:00Z,False,Everton
+326,260,Vitalii Mykolenko,46,DEF,Spurs,Everton,2023-12-23T15:00:00Z,False,Everton
+327,261,Amadou Onana,47,MID,Spurs,Everton,2023-12-23T15:00:00Z,False,Everton
+328,262,Nathan Patterson,44,DEF,Spurs,Everton,2023-12-23T15:00:00Z,False,Everton
+329,263,Jordan Pickford,44,GKP,Spurs,Everton,2023-12-23T15:00:00Z,False,Everton
+330,264,Ellis Simms,45,FWD,Spurs,Everton,2023-12-23T15:00:00Z,False,Everton
+331,265,James Tarkowski,44,DEF,Spurs,Everton,2023-12-23T15:00:00Z,False,Everton
+332,266,João Neves Virgínia,39,GKP,Spurs,Everton,2023-12-23T15:00:00Z,False,Everton
+333,579,Andy Lonergan,39,GKP,Spurs,Everton,2023-12-23T15:00:00Z,False,Everton
+334,588,Ashley Young,44,DEF,Spurs,Everton,2023-12-23T15:00:00Z,False,Everton
+335,601,Arnaut Danjuma Groeneveld,52,MID,Spurs,Everton,2023-12-23T15:00:00Z,False,Everton
+336,624,Lewis Dobbin,45,MID,Spurs,Everton,2023-12-23T15:00:00Z,False,Everton
+337,645,Youssef Ramalho Chermiti,48,FWD,Spurs,Everton,2023-12-23T15:00:00Z,False,Everton
+338,649,Thomas Cannon,45,FWD,Spurs,Everton,2023-12-23T15:00:00Z,False,Everton
+339,650,Tyler Onyango,45,MID,Spurs,Everton,2023-12-23T15:00:00Z,False,Everton
+340,661,Jack Harrison,55,MID,Spurs,Everton,2023-12-23T15:00:00Z,False,Everton
+341,691,Norberto Bercique Gomes Betuncal,57,FWD,Spurs,Everton,2023-12-23T15:00:00Z,False,Everton
+342,719,Mackenzie Hunt,45,MID,Spurs,Everton,2023-12-23T15:00:00Z,False,Everton
+343,760,Jenson Metcalfe,45,MID,Spurs,Everton,2023-12-23T15:00:00Z,False,Everton
+344,761,Elijah Campbell,40,DEF,Spurs,Everton,2023-12-23T15:00:00Z,False,Everton
+345,256,Alex Iwobi,53,MID,Fulham,Burnley,2023-12-23T15:00:00Z,True,Fulham
+346,267,Andreas Hoelgebaum Pereira,53,MID,Fulham,Burnley,2023-12-23T15:00:00Z,True,Fulham
+347,268,Tom Cairney,49,MID,Fulham,Burnley,2023-12-23T15:00:00Z,True,Fulham
+348,269,Ivan Neves Abreu Cavaleiro,50,MID,Fulham,Burnley,2023-12-23T15:00:00Z,True,Fulham
+349,270,Bobby De Cordova-Reid,54,MID,Fulham,Burnley,2023-12-23T15:00:00Z,True,Fulham
+350,271,Issa Diop,44,DEF,Fulham,Burnley,2023-12-23T15:00:00Z,True,Fulham
+351,272,Tyrese Francois,44,MID,Fulham,Burnley,2023-12-23T15:00:00Z,True,Fulham
+352,273,Anthony Knockaert,44,MID,Fulham,Burnley,2023-12-23T15:00:00Z,True,Fulham
+353,274,Terence Kongolo,40,DEF,Fulham,Burnley,2023-12-23T15:00:00Z,True,Fulham
+354,275,Bernd Leno,48,GKP,Fulham,Burnley,2023-12-23T15:00:00Z,True,Fulham
+355,276,Saša Lukić,44,MID,Fulham,Burnley,2023-12-23T15:00:00Z,True,Fulham
+356,277,Kevin Mbabu,40,DEF,Fulham,Burnley,2023-12-23T15:00:00Z,True,Fulham
+357,278,Aleksandar Mitrović,74,FWD,Fulham,Burnley,2023-12-23T15:00:00Z,True,Fulham
+358,279,Rodrigo Muniz Carvalho,44,FWD,Fulham,Burnley,2023-12-23T15:00:00Z,True,Fulham
+359,280,João Palhinha Gonçalves,50,MID,Fulham,Burnley,2023-12-23T15:00:00Z,True,Fulham
+360,281,Tim Ream,45,DEF,Fulham,Burnley,2023-12-23T15:00:00Z,True,Fulham
+361,282,Harrison Reed,46,MID,Fulham,Burnley,2023-12-23T15:00:00Z,True,Fulham
+362,283,Antonee Robinson,44,DEF,Fulham,Burnley,2023-12-23T15:00:00Z,True,Fulham
+363,284,Marek Rodák,39,GKP,Fulham,Burnley,2023-12-23T15:00:00Z,True,Fulham
+364,285,Kenny Tete,44,DEF,Fulham,Burnley,2023-12-23T15:00:00Z,True,Fulham
+365,286,Tosin Adarabioyo,43,DEF,Fulham,Burnley,2023-12-23T15:00:00Z,True,Fulham
+366,287,Carlos Vinícius Alves Morais,47,FWD,Fulham,Burnley,2023-12-23T15:00:00Z,True,Fulham
+367,288,Harry Wilson,53,MID,Fulham,Burnley,2023-12-23T15:00:00Z,True,Fulham
+368,558,Raúl Jiménez,53,FWD,Fulham,Burnley,2023-12-23T15:00:00Z,True,Fulham
+369,591,Willian Borges da Silva,53,MID,Fulham,Burnley,2023-12-23T15:00:00Z,True,Fulham
+370,610,Calvin Bassey,44,DEF,Fulham,Burnley,2023-12-23T15:00:00Z,True,Fulham
+371,625,Luc De Fougerolles,40,DEF,Fulham,Burnley,2023-12-23T15:00:00Z,True,Fulham
+372,651,Jay Stansfield,45,FWD,Fulham,Burnley,2023-12-23T15:00:00Z,True,Fulham
+373,652,Matthew Dibley-Dias,45,MID,Fulham,Burnley,2023-12-23T15:00:00Z,True,Fulham
+374,662,Adama Traoré,49,MID,Fulham,Burnley,2023-12-23T15:00:00Z,True,Fulham
+375,683,Luke Harris,45,MID,Fulham,Burnley,2023-12-23T15:00:00Z,True,Fulham
+376,688,Timothy Castagne,45,DEF,Fulham,Burnley,2023-12-23T15:00:00Z,True,Fulham
+377,692,Steven Benda,40,GKP,Fulham,Burnley,2023-12-23T15:00:00Z,True,Fulham
+378,707,Fodé Ballo-Touré,45,DEF,Fulham,Burnley,2023-12-23T15:00:00Z,True,Fulham
+379,732,Devan Tanton,40,DEF,Fulham,Burnley,2023-12-23T15:00:00Z,True,Fulham
+380,289,Adrián San Miguel del Castillo,39,GKP,Liverpool,Arsenal,2023-12-23T17:30:00Z,True,Liverpool
+381,290,Trent Alexander-Arnold,82,DEF,Liverpool,Arsenal,2023-12-23T17:30:00Z,True,Liverpool
+382,291,Alisson Ramses Becker,56,GKP,Liverpool,Arsenal,2023-12-23T17:30:00Z,True,Liverpool
+383,292,Stefan Bajcetic,47,MID,Liverpool,Arsenal,2023-12-23T17:30:00Z,True,Liverpool
+384,293,Darwin Núñez Ribeiro,76,FWD,Liverpool,Arsenal,2023-12-23T17:30:00Z,True,Liverpool
+385,294,Diogo Teixeira da Silva,77,MID,Liverpool,Arsenal,2023-12-23T17:30:00Z,True,Liverpool
+386,295,Harvey Elliott,48,MID,Liverpool,Arsenal,2023-12-23T17:30:00Z,True,Liverpool
+387,296,Fabio Henrique Tavares,50,MID,Liverpool,Arsenal,2023-12-23T17:30:00Z,True,Liverpool
+388,297,Cody Gakpo,72,FWD,Liverpool,Arsenal,2023-12-23T17:30:00Z,True,Liverpool
+389,298,Joe Gomez,45,DEF,Liverpool,Arsenal,2023-12-23T17:30:00Z,True,Liverpool
+390,299,Jordan Henderson,50,MID,Liverpool,Arsenal,2023-12-23T17:30:00Z,True,Liverpool
+391,300,Curtis Jones,49,MID,Liverpool,Arsenal,2023-12-23T17:30:00Z,True,Liverpool
+392,301,Caoimhin Kelleher,39,GKP,Liverpool,Arsenal,2023-12-23T17:30:00Z,True,Liverpool
+393,302,Ibrahima Konaté,49,DEF,Liverpool,Arsenal,2023-12-23T17:30:00Z,True,Liverpool
+394,303,Luis Díaz,74,MID,Liverpool,Arsenal,2023-12-23T17:30:00Z,True,Liverpool
+395,304,Alexis Mac Allister,58,MID,Liverpool,Arsenal,2023-12-23T17:30:00Z,True,Liverpool
+396,305,Joel Matip,49,DEF,Liverpool,Arsenal,2023-12-23T17:30:00Z,True,Liverpool
+397,306,Nathaniel Phillips,40,DEF,Liverpool,Arsenal,2023-12-23T17:30:00Z,True,Liverpool
+398,307,Andrew Robertson,64,DEF,Liverpool,Arsenal,2023-12-23T17:30:00Z,True,Liverpool
+399,308,Mohamed Salah,132,MID,Liverpool,Arsenal,2023-12-23T17:30:00Z,True,Liverpool
+400,309,Dominik Szoboszlai,71,MID,Liverpool,Arsenal,2023-12-23T17:30:00Z,True,Liverpool
+401,310,Thiago Alcántara do Nascimento,48,MID,Liverpool,Arsenal,2023-12-23T17:30:00Z,True,Liverpool
+402,311,Konstantinos Tsimikas,49,DEF,Liverpool,Arsenal,2023-12-23T17:30:00Z,True,Liverpool
+403,312,Sepp van den Berg,40,DEF,Liverpool,Arsenal,2023-12-23T17:30:00Z,True,Liverpool
+404,313,Virgil van Dijk,62,DEF,Liverpool,Arsenal,2023-12-23T17:30:00Z,True,Liverpool
+405,626,Jarell Quansah,40,DEF,Liverpool,Arsenal,2023-12-23T17:30:00Z,True,Liverpool
+406,627,Bobby Clark,44,MID,Liverpool,Arsenal,2023-12-23T17:30:00Z,True,Liverpool
+407,628,Ben Doak,44,MID,Liverpool,Arsenal,2023-12-23T17:30:00Z,True,Liverpool
+408,629,James McConnell,44,MID,Liverpool,Arsenal,2023-12-23T17:30:00Z,True,Liverpool
+409,668,Wataru Endo,54,MID,Liverpool,Arsenal,2023-12-23T17:30:00Z,True,Liverpool
+410,708,Ryan Gravenberch,50,MID,Liverpool,Arsenal,2023-12-23T17:30:00Z,True,Liverpool
+411,726,Luke Chambers,40,DEF,Liverpool,Arsenal,2023-12-23T17:30:00Z,True,Liverpool
+412,728,Callum Scanlon,40,DEF,Liverpool,Arsenal,2023-12-23T17:30:00Z,True,Liverpool
+413,743,Treymaurice Nyoni,45,MID,Liverpool,Arsenal,2023-12-23T17:30:00Z,True,Liverpool
+414,756,Marcelo de Araújo Pitaluga Filho,40,GKP,Liverpool,Arsenal,2023-12-23T17:30:00Z,True,Liverpool
+415,757,Conor Bradley,40,DEF,Liverpool,Arsenal,2023-12-23T17:30:00Z,True,Liverpool
+416,21,Albert Sambi Lokonga,49,MID,Luton,Newcastle,2023-12-23T15:00:00Z,True,Luton
+417,52,Marvelous Nakamba,44,MID,Luton,Newcastle,2023-12-23T15:00:00Z,True,Luton
+418,314,Elijah Adebayo,48,FWD,Luton,Newcastle,2023-12-23T15:00:00Z,True,Luton
+419,315,Mads Juel Andersen,39,DEF,Luton,Newcastle,2023-12-23T15:00:00Z,True,Luton
+420,316,Amari'i Bell,39,DEF,Luton,Newcastle,2023-12-23T15:00:00Z,True,Luton
+421,317,Luke Berry,47,MID,Luton,Newcastle,2023-12-23T15:00:00Z,True,Luton
+422,318,Reece Burke,40,DEF,Luton,Newcastle,2023-12-23T15:00:00Z,True,Luton
+423,319,Allan Campbell,49,MID,Luton,Newcastle,2023-12-23T15:00:00Z,True,Luton
+424,320,Jordan Clark,48,MID,Luton,Newcastle,2023-12-23T15:00:00Z,True,Luton
+425,321,Alfie Doughty,44,DEF,Luton,Newcastle,2023-12-23T15:00:00Z,True,Luton
+426,322,Luke Freeman,49,MID,Luton,Newcastle,2023-12-23T15:00:00Z,True,Luton
+427,323,Matt Macey,40,GKP,Luton,Newcastle,2023-12-23T15:00:00Z,True,Luton
+428,324,John McAtee,45,FWD,Luton,Newcastle,2023-12-23T15:00:00Z,True,Luton
+429,325,Carlos Mendes Gomes,45,MID,Luton,Newcastle,2023-12-23T15:00:00Z,True,Luton
+430,326,Carlton Morris,51,FWD,Luton,Newcastle,2023-12-23T15:00:00Z,True,Luton
+431,327,Admiral Muskwe,45,FWD,Luton,Newcastle,2023-12-23T15:00:00Z,True,Luton
+432,328,Chiedozie Ogbene,49,FWD,Luton,Newcastle,2023-12-23T15:00:00Z,True,Luton
+433,329,Fred Onyedinma,50,MID,Luton,Newcastle,2023-12-23T15:00:00Z,True,Luton
+434,330,Gabriel Osho,44,DEF,Luton,Newcastle,2023-12-23T15:00:00Z,True,Luton
+435,331,Aribim Pepple,45,FWD,Luton,Newcastle,2023-12-23T15:00:00Z,True,Luton
+436,332,Dion Pereira,44,MID,Luton,Newcastle,2023-12-23T15:00:00Z,True,Luton
+437,333,Dan Potts,39,DEF,Luton,Newcastle,2023-12-23T15:00:00Z,True,Luton
+438,334,Glen Rea,44,MID,Luton,Newcastle,2023-12-23T15:00:00Z,True,Luton
+439,335,James Shea,43,GKP,Luton,Newcastle,2023-12-23T15:00:00Z,True,Luton
+440,336,Joe Taylor,45,FWD,Luton,Newcastle,2023-12-23T15:00:00Z,True,Luton
+441,337,Elliot Thorpe,45,MID,Luton,Newcastle,2023-12-23T15:00:00Z,True,Luton
+442,338,Jack Walton,40,GKP,Luton,Newcastle,2023-12-23T15:00:00Z,True,Luton
+443,339,Louie Watson,44,MID,Luton,Newcastle,2023-12-23T15:00:00Z,True,Luton
+444,340,Cauley Woodrow,44,FWD,Luton,Newcastle,2023-12-23T15:00:00Z,True,Luton
+445,393,Teden Mengi,39,DEF,Luton,Newcastle,2023-12-23T15:00:00Z,True,Luton
+446,553,Ryan Giles,43,DEF,Luton,Newcastle,2023-12-23T15:00:00Z,True,Luton
+447,575,Tom Lockyer,43,DEF,Luton,Newcastle,2023-12-23T15:00:00Z,True,Luton
+448,582,Pelly Ruddock Mpanzu,47,MID,Luton,Newcastle,2023-12-23T15:00:00Z,True,Luton
+449,586,Tahith Chong,48,MID,Luton,Newcastle,2023-12-23T15:00:00Z,True,Luton
+450,602,Issa Kaboré,40,DEF,Luton,Newcastle,2023-12-23T15:00:00Z,True,Luton
+451,614,Thomas Kaminski,45,GKP,Luton,Newcastle,2023-12-23T15:00:00Z,True,Luton
+452,630,Ross Barkley,49,MID,Luton,Newcastle,2023-12-23T15:00:00Z,True,Luton
+453,631,Jacob Brown,49,FWD,Luton,Newcastle,2023-12-23T15:00:00Z,True,Luton
+454,648,Aidan Francis-Clarke,40,DEF,Luton,Newcastle,2023-12-23T15:00:00Z,True,Luton
+455,665,Tim Krul,44,GKP,Luton,Newcastle,2023-12-23T15:00:00Z,True,Luton
+456,682,Joseph Johnson,40,DEF,Luton,Newcastle,2023-12-23T15:00:00Z,True,Luton
+457,727,Andros Townsend,50,MID,Luton,Newcastle,2023-12-23T15:00:00Z,True,Luton
+458,729,Jayden Luker,45,MID,Luton,Newcastle,2023-12-23T15:00:00Z,True,Luton
+459,734,Zack Nelson,45,MID,Luton,Newcastle,2023-12-23T15:00:00Z,True,Luton
+460,341,Manuel Akanji,49,DEF,Everton,Man City,2023-12-27T20:15:00Z,False,Man City
+461,342,Nathan Aké,50,DEF,Everton,Man City,2023-12-27T20:15:00Z,False,Man City
+462,343,Julián Álvarez,69,FWD,Everton,Man City,2023-12-27T20:15:00Z,False,Man City
+463,344,Bernardo Veiga de Carvalho e Silva,64,MID,Everton,Man City,2023-12-27T20:15:00Z,False,Man City
+464,345,Oscar Bobb,44,MID,Everton,Man City,2023-12-27T20:15:00Z,False,Man City
+465,346,João Cancelo,58,DEF,Everton,Man City,2023-12-27T20:15:00Z,False,Man City
+466,347,Scott Carson,39,GKP,Everton,Man City,2023-12-27T20:15:00Z,False,Man City
+467,348,Shea Charles,45,MID,Everton,Man City,2023-12-27T20:15:00Z,False,Man City
+468,349,Kevin De Bruyne,102,MID,Everton,Man City,2023-12-27T20:15:00Z,False,Man City
+469,350,Rúben Gato Alves Dias,55,DEF,Everton,Man City,2023-12-27T20:15:00Z,False,Man City
+470,352,Ederson Santana de Moraes,55,GKP,Everton,Man City,2023-12-27T20:15:00Z,False,Man City
+471,353,Phil Foden,76,MID,Everton,Man City,2023-12-27T20:15:00Z,False,Man City
+472,354,Jack Grealish,72,MID,Everton,Man City,2023-12-27T20:15:00Z,False,Man City
+473,355,Erling Haaland,139,FWD,Everton,Man City,2023-12-27T20:15:00Z,False,Man City
+474,356,Mateo Kovačić,47,MID,Everton,Man City,2023-12-27T20:15:00Z,False,Man City
+475,357,Aymeric Laporte,49,DEF,Everton,Man City,2023-12-27T20:15:00Z,False,Man City
+476,358,Rico Lewis,43,DEF,Everton,Man City,2023-12-27T20:15:00Z,False,Man City
+477,359,Riyad Mahrez,75,MID,Everton,Man City,2023-12-27T20:15:00Z,False,Man City
+478,361,Stefan Ortega Moreno,39,GKP,Everton,Man City,2023-12-27T20:15:00Z,False,Man City
+479,363,Máximo Perrone,44,MID,Everton,Man City,2023-12-27T20:15:00Z,False,Man City
+480,364,Kalvin Phillips,47,MID,Everton,Man City,2023-12-27T20:15:00Z,False,Man City
+481,365,Rodrigo Hernandez,56,MID,Everton,Man City,2023-12-27T20:15:00Z,False,Man City
+482,366,Sergio Gómez,39,DEF,Everton,Man City,2023-12-27T20:15:00Z,False,Man City
+483,367,Zack Steffen,39,GKP,Everton,Man City,2023-12-27T20:15:00Z,False,Man City
+484,368,John Stones,53,DEF,Everton,Man City,2023-12-27T20:15:00Z,False,Man City
+485,369,Kyle Walker,53,DEF,Everton,Man City,2023-12-27T20:15:00Z,False,Man City
+486,566,Matheus Luiz Nunes,48,MID,Everton,Man City,2023-12-27T20:15:00Z,False,Man City
+487,616,Joško Gvardiol,49,DEF,Everton,Man City,2023-12-27T20:15:00Z,False,Man City
+488,678,Jérémy Doku,66,MID,Everton,Man City,2023-12-27T20:15:00Z,False,Man City
+489,762,Mahamadou Susoho,45,MID,Everton,Man City,2023-12-27T20:15:00Z,False,Man City
+490,209,Mason Mount,68,MID,West Ham,Man Utd,2023-12-23T12:30:00Z,False,Man Utd
+491,370,Alex Telles,45,DEF,West Ham,Man Utd,2023-12-23T12:30:00Z,False,Man Utd
+492,371,Amad Diallo,44,MID,West Ham,Man Utd,2023-12-23T12:30:00Z,False,Man Utd
+493,372,Antony Matheus dos Santos,68,MID,West Ham,Man Utd,2023-12-23T12:30:00Z,False,Man Utd
+494,373,Bruno Borges Fernandes,82,MID,West Ham,Man Utd,2023-12-23T12:30:00Z,False,Man Utd
+495,374,Brandon Williams,40,DEF,West Ham,Man Utd,2023-12-23T12:30:00Z,False,Man Utd
+496,375,Eric Bailly,40,DEF,West Ham,Man Utd,2023-12-23T12:30:00Z,False,Man Utd
+497,376,Carlos Henrique Casimiro,54,MID,West Ham,Man Utd,2023-12-23T12:30:00Z,False,Man Utd
+498,377,Diogo Dalot Teixeira,51,DEF,West Ham,Man Utd,2023-12-23T12:30:00Z,False,Man Utd
+499,379,Christian Eriksen,58,MID,West Ham,Man Utd,2023-12-23T12:30:00Z,False,Man Utd
+500,380,Álvaro Fernández Carreras,40,DEF,West Ham,Man Utd,2023-12-23T12:30:00Z,False,Man Utd
+501,381,Frederico Rodrigues de Paula Santos,50,MID,West Ham,Man Utd,2023-12-23T12:30:00Z,False,Man Utd
+502,382,Alejandro Garnacho,48,MID,West Ham,Man Utd,2023-12-23T12:30:00Z,False,Man Utd
+503,383,Hannibal Mejbri,44,MID,West Ham,Man Utd,2023-12-23T12:30:00Z,False,Man Utd
+504,384,Tom Heaton,40,GKP,West Ham,Man Utd,2023-12-23T12:30:00Z,False,Man Utd
+505,386,Victor Lindelöf,45,DEF,West Ham,Man Utd,2023-12-23T12:30:00Z,False,Man Utd
+506,387,Harry Maguire,43,DEF,West Ham,Man Utd,2023-12-23T12:30:00Z,False,Man Utd
+507,388,Kobbie Mainoo,44,MID,West Ham,Man Utd,2023-12-23T12:30:00Z,False,Man Utd
+508,389,Tyrell Malacia,43,DEF,West Ham,Man Utd,2023-12-23T12:30:00Z,False,Man Utd
+509,390,Anthony Martial,64,FWD,West Ham,Man Utd,2023-12-23T12:30:00Z,False,Man Utd
+510,391,Lisandro Martínez,47,DEF,West Ham,Man Utd,2023-12-23T12:30:00Z,False,Man Utd
+511,392,Scott McTominay,49,MID,West Ham,Man Utd,2023-12-23T12:30:00Z,False,Man Utd
+512,394,Facundo Pellistri Rebollo,44,MID,West Ham,Man Utd,2023-12-23T12:30:00Z,False,Man Utd
+513,395,Raphaël Varane,49,DEF,West Ham,Man Utd,2023-12-23T12:30:00Z,False,Man Utd
+514,396,Marcus Rashford,85,MID,West Ham,Man Utd,2023-12-23T12:30:00Z,False,Man Utd
+515,397,Jadon Sancho,67,MID,West Ham,Man Utd,2023-12-23T12:30:00Z,False,Man Utd
+516,398,Luke Shaw,52,DEF,West Ham,Man Utd,2023-12-23T12:30:00Z,False,Man Utd
+517,399,Shola Shoretire,44,FWD,West Ham,Man Utd,2023-12-23T12:30:00Z,False,Man Utd
+518,400,Donny van de Beek,47,MID,West Ham,Man Utd,2023-12-23T12:30:00Z,False,Man Utd
+519,401,Aaron Wan-Bissaka,44,DEF,West Ham,Man Utd,2023-12-23T12:30:00Z,False,Man Utd
+520,508,Sergio Reguilón,44,DEF,West Ham,Man Utd,2023-12-23T12:30:00Z,False,Man Utd
+521,597,André Onana,48,GKP,West Ham,Man Utd,2023-12-23T12:30:00Z,False,Man Utd
+522,617,Rasmus Højlund,68,FWD,West Ham,Man Utd,2023-12-23T12:30:00Z,False,Man Utd
+523,632,Omari Forson,44,MID,West Ham,Man Utd,2023-12-23T12:30:00Z,False,Man Utd
+524,669,Radek Vítek,40,GKP,West Ham,Man Utd,2023-12-23T12:30:00Z,False,Man Utd
+525,685,Daniel Gore,45,MID,West Ham,Man Utd,2023-12-23T12:30:00Z,False,Man Utd
+526,695,Altay Bayindir,40,GKP,West Ham,Man Utd,2023-12-23T12:30:00Z,False,Man Utd
+527,703,Jonny Evans,40,DEF,West Ham,Man Utd,2023-12-23T12:30:00Z,False,Man Utd
+528,709,Sofyan Amrabat,50,MID,West Ham,Man Utd,2023-12-23T12:30:00Z,False,Man Utd
+529,748,Joe Hugill,45,FWD,West Ham,Man Utd,2023-12-23T12:30:00Z,False,Man Utd
+530,766,Willy Kambwala,40,DEF,West Ham,Man Utd,2023-12-23T12:30:00Z,False,Man Utd
+531,204,Lewis Hall,43,DEF,Luton,Newcastle,2023-12-23T15:00:00Z,False,Newcastle
+532,402,Miguel Almirón Rejala,62,MID,Luton,Newcastle,2023-12-23T15:00:00Z,False,Newcastle
+533,403,Elliot Anderson,42,MID,Luton,Newcastle,2023-12-23T15:00:00Z,False,Newcastle
+534,404,Harrison Ashby,40,DEF,Luton,Newcastle,2023-12-23T15:00:00Z,False,Newcastle
+535,405,Sven Botman,45,DEF,Luton,Newcastle,2023-12-23T15:00:00Z,False,Newcastle
+536,406,Bruno Guimarães Rodriguez Moura,58,MID,Luton,Newcastle,2023-12-23T15:00:00Z,False,Newcastle
+537,407,Dan Burn,44,DEF,Luton,Newcastle,2023-12-23T15:00:00Z,False,Newcastle
+538,408,Karl Darlow,40,GKP,Luton,Newcastle,2023-12-23T15:00:00Z,False,Newcastle
+539,409,Martin Dubravka,42,GKP,Luton,Newcastle,2023-12-23T15:00:00Z,False,Newcastle
+540,410,Ryan Fraser,49,MID,Luton,Newcastle,2023-12-23T15:00:00Z,False,Newcastle
+541,411,Mark Gillespie,39,GKP,Luton,Newcastle,2023-12-23T15:00:00Z,False,Newcastle
+542,412,Anthony Gordon,62,MID,Luton,Newcastle,2023-12-23T15:00:00Z,False,Newcastle
+543,413,Isaac Hayden,44,MID,Luton,Newcastle,2023-12-23T15:00:00Z,False,Newcastle
+544,414,Jeff Hendrick,44,MID,Luton,Newcastle,2023-12-23T15:00:00Z,False,Newcastle
+545,415,Alexander Isak,76,FWD,Luton,Newcastle,2023-12-23T15:00:00Z,False,Newcastle
+546,416,Joelinton Cássio Apolinário de Lira,58,MID,Luton,Newcastle,2023-12-23T15:00:00Z,False,Newcastle
+547,417,Emil Krafth,44,DEF,Luton,Newcastle,2023-12-23T15:00:00Z,False,Newcastle
+548,418,Garang Kuol,45,MID,Luton,Newcastle,2023-12-23T15:00:00Z,False,Newcastle
+549,419,Jamaal Lascelles,42,DEF,Luton,Newcastle,2023-12-23T15:00:00Z,False,Newcastle
+550,420,Jamal Lewis,40,DEF,Luton,Newcastle,2023-12-23T15:00:00Z,False,Newcastle
+551,421,Sean Longstaff,49,MID,Luton,Newcastle,2023-12-23T15:00:00Z,False,Newcastle
+552,422,Javier Manquillo Gaitán,40,DEF,Luton,Newcastle,2023-12-23T15:00:00Z,False,Newcastle
+553,423,Jacob Murphy,48,MID,Luton,Newcastle,2023-12-23T15:00:00Z,False,Newcastle
+554,424,Nick Pope,54,GKP,Luton,Newcastle,2023-12-23T15:00:00Z,False,Newcastle
+555,425,Matt Ritchie,44,MID,Luton,Newcastle,2023-12-23T15:00:00Z,False,Newcastle
+556,426,Allan Saint-Maximin,60,MID,Luton,Newcastle,2023-12-23T15:00:00Z,False,Newcastle
+557,427,Fabian Schär,53,DEF,Luton,Newcastle,2023-12-23T15:00:00Z,False,Newcastle
+558,428,Matt Targett,42,DEF,Luton,Newcastle,2023-12-23T15:00:00Z,False,Newcastle
+559,429,Sandro Tonali,52,MID,Luton,Newcastle,2023-12-23T15:00:00Z,False,Newcastle
+560,430,Kieran Trippier,69,DEF,Luton,Newcastle,2023-12-23T15:00:00Z,False,Newcastle
+561,431,Kell Watts,40,DEF,Luton,Newcastle,2023-12-23T15:00:00Z,False,Newcastle
+562,432,Joe Willock,53,MID,Luton,Newcastle,2023-12-23T15:00:00Z,False,Newcastle
+563,433,Callum Wilson,78,FWD,Luton,Newcastle,2023-12-23T15:00:00Z,False,Newcastle
+564,580,Loris Karius,39,GKP,Luton,Newcastle,2023-12-23T15:00:00Z,False,Newcastle
+565,581,Paul Dummett,39,DEF,Luton,Newcastle,2023-12-23T15:00:00Z,False,Newcastle
+566,603,Harvey Barnes,62,MID,Luton,Newcastle,2023-12-23T15:00:00Z,False,Newcastle
+567,633,Tino Livramento,44,DEF,Luton,Newcastle,2023-12-23T15:00:00Z,False,Newcastle
+568,634,Alex Murphy,39,DEF,Luton,Newcastle,2023-12-23T15:00:00Z,False,Newcastle
+569,635,Lewis Miley,45,MID,Luton,Newcastle,2023-12-23T15:00:00Z,False,Newcastle
+570,738,Amadou Diallo,45,MID,Luton,Newcastle,2023-12-23T15:00:00Z,False,Newcastle
+571,739,Ben Parkinson,45,FWD,Luton,Newcastle,2023-12-23T15:00:00Z,False,Newcastle
+572,745,Michael Ndiweni,45,FWD,Luton,Newcastle,2023-12-23T15:00:00Z,False,Newcastle
+573,23,Nuno Varela Tavares,40,DEF,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,True,Nott'm Forest
+574,28,Matt Turner,39,GKP,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,True,Nott'm Forest
+575,186,Andrey Nascimento dos Santos,43,MID,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,True,Nott'm Forest
+576,205,Callum Hudson-Odoi,47,MID,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,True,Nott'm Forest
+577,378,Anthony Elanga,50,MID,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,True,Nott'm Forest
+578,434,Brandon Aguilera Zamora,45,MID,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,True,Nott'm Forest
+579,435,Harry Arter,43,MID,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,True,Nott'm Forest
+580,436,Serge Aurier,45,DEF,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,True,Nott'm Forest
+581,437,Taiwo Awoniyi,63,FWD,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,True,Nott'm Forest
+582,438,Giulian Biancone,39,DEF,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,True,Nott'm Forest
+583,439,Willy Boly,45,DEF,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,True,Nott'm Forest
+584,440,Josh Bowler,45,MID,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,True,Nott'm Forest
+585,441,Steve Cook,45,DEF,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,True,Nott'm Forest
+586,442,Danilo dos Santos de Oliveira,53,MID,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,True,Nott'm Forest
+587,443,Emmanuel Dennis,48,FWD,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,True,Nott'm Forest
+588,444,Mohamed Dräger,40,DEF,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,True,Nott'm Forest
+589,445,Felipe Augusto de Almeida Monteiro,44,DEF,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,True,Nott'm Forest
+590,446,Remo Freuler,49,MID,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,True,Nott'm Forest
+591,447,Morgan Gibbs-White,57,MID,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,True,Nott'm Forest
+592,448,Wayne Hennessey,40,GKP,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,True,Nott'm Forest
+593,449,Ethan Horvath,43,GKP,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,True,Nott'm Forest
+594,451,Cheikhou Kouyaté,48,MID,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,True,Nott'm Forest
+595,452,Richie Laryea,45,DEF,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,True,Nott'm Forest
+596,453,Orel Mangala,50,MID,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,True,Nott'm Forest
+597,454,Loïc Mbe Soh,40,DEF,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,True,Nott'm Forest
+598,455,Scott McKenna,44,DEF,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,True,Nott'm Forest
+599,456,Alex Mighten,44,MID,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,True,Nott'm Forest
+600,457,Moussa Niakhaté,45,DEF,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,True,Nott'm Forest
+601,458,Lewis O'Brien,49,MID,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,True,Nott'm Forest
+602,459,Braian Ojeda Rodríguez,45,MID,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,True,Nott'm Forest
+603,460,Jonathan Panzo,40,DEF,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,True,Nott'm Forest
+604,461,Omar Richards,44,DEF,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,True,Nott'm Forest
+605,462,Gustavo Henrique Furtado Scarpa,45,MID,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,True,Nott'm Forest
+606,463,Jonjo Shelvey,48,MID,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,True,Nott'm Forest
+607,464,Sam Surridge,45,FWD,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,True,Nott'm Forest
+608,465,Harry Toffolo,44,DEF,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,True,Nott'm Forest
+609,466,Hwang Ui-jo,44,FWD,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,True,Nott'm Forest
+610,467,Neco Williams,43,DEF,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,True,Nott'm Forest
+611,468,Chris Wood,49,FWD,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,True,Nott'm Forest
+612,469,Joe Worrall,44,DEF,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,True,Nott'm Forest
+613,470,Ryan Yates,48,MID,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,True,Nott'm Forest
+614,604,Olu Aina,45,DEF,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,True,Nott'm Forest
+615,636,George Shelvey,40,GKP,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,True,Nott'm Forest
+616,637,Josh Powell,40,DEF,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,True,Nott'm Forest
+617,679,Gonzalo Montiel,44,DEF,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,True,Nott'm Forest
+618,696,Murillo Santiago Costa dos Santos,45,DEF,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,True,Nott'm Forest
+619,710,Odysseas Vlachodimos,45,GKP,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,True,Nott'm Forest
+620,711,Andrew Omobamidele,45,DEF,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,True,Nott'm Forest
+621,712,Nicolás Domínguez,50,MID,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,True,Nott'm Forest
+622,713,Ibrahim Sangaré,49,MID,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,True,Nott'm Forest
+623,714,Divock Origi,50,FWD,Nott'm Forest,Bournemouth,2023-12-23T15:00:00Z,True,Nott'm Forest
+624,27,Auston Trusty,39,DEF,Aston Villa,Sheffield Utd,2023-12-22T20:00:00Z,False,Sheffield Utd
+625,33,Cameron Archer,46,FWD,Aston Villa,Sheffield Utd,2023-12-22T20:00:00Z,False,Sheffield Utd
+626,360,James McAtee,44,MID,Aston Villa,Sheffield Utd,2023-12-22T20:00:00Z,False,Sheffield Utd
+627,471,Anel Ahmedhodžić,43,DEF,Aston Villa,Sheffield Utd,2023-12-22T20:00:00Z,False,Sheffield Utd
+628,472,Jordan Amissah,39,GKP,Aston Villa,Sheffield Utd,2023-12-22T20:00:00Z,False,Sheffield Utd
+629,473,George Baldock,39,DEF,Aston Villa,Sheffield Utd,2023-12-22T20:00:00Z,False,Sheffield Utd
+630,474,Chris Basham,39,DEF,Aston Villa,Sheffield Utd,2023-12-22T20:00:00Z,False,Sheffield Utd
+631,476,Jayden Bogle,45,DEF,Aston Villa,Sheffield Utd,2023-12-22T20:00:00Z,False,Sheffield Utd
+632,477,Rhian Brewster,49,FWD,Aston Villa,Sheffield Utd,2023-12-22T20:00:00Z,False,Sheffield Utd
+633,478,Ismaila Coulibaly,44,MID,Aston Villa,Sheffield Utd,2023-12-22T20:00:00Z,False,Sheffield Utd
+634,479,Adam Davies,40,GKP,Aston Villa,Sheffield Utd,2023-12-22T20:00:00Z,False,Sheffield Utd
+635,480,John Egan,43,DEF,Aston Villa,Sheffield Utd,2023-12-22T20:00:00Z,False,Sheffield Utd
+636,481,John Fleck,49,MID,Aston Villa,Sheffield Utd,2023-12-22T20:00:00Z,False,Sheffield Utd
+637,482,Wes Foderingham,45,GKP,Aston Villa,Sheffield Utd,2023-12-22T20:00:00Z,False,Sheffield Utd
+638,483,Daniel Jebbison,48,FWD,Aston Villa,Sheffield Utd,2023-12-22T20:00:00Z,False,Sheffield Utd
+639,484,Max Lowe,43,DEF,Aston Villa,Sheffield Utd,2023-12-22T20:00:00Z,False,Sheffield Utd
+640,485,Oliver McBurnie,54,FWD,Aston Villa,Sheffield Utd,2023-12-22T20:00:00Z,False,Sheffield Utd
+641,486,Iliman Ndiaye,55,FWD,Aston Villa,Sheffield Utd,2023-12-22T20:00:00Z,False,Sheffield Utd
+642,487,Rhys Norrington-Davies,39,DEF,Aston Villa,Sheffield Utd,2023-12-22T20:00:00Z,False,Sheffield Utd
+643,488,Oliver Norwood,48,MID,Aston Villa,Sheffield Utd,2023-12-22T20:00:00Z,False,Sheffield Utd
+644,489,Ben Osborn,48,MID,Aston Villa,Sheffield Utd,2023-12-22T20:00:00Z,False,Sheffield Utd
+645,490,William Osula,43,FWD,Aston Villa,Sheffield Utd,2023-12-22T20:00:00Z,False,Sheffield Utd
+646,576,Jack Robinson,44,DEF,Aston Villa,Sheffield Utd,2023-12-22T20:00:00Z,False,Sheffield Utd
+647,587,Anis Slimane,47,MID,Aston Villa,Sheffield Utd,2023-12-22T20:00:00Z,False,Sheffield Utd
+648,592,Yasser Larouci,43,DEF,Aston Villa,Sheffield Utd,2023-12-22T20:00:00Z,False,Sheffield Utd
+649,593,Bénie Traoré,52,FWD,Aston Villa,Sheffield Utd,2023-12-22T20:00:00Z,False,Sheffield Utd
+650,638,Vini de Souza Costa,50,MID,Aston Villa,Sheffield Utd,2023-12-22T20:00:00Z,False,Sheffield Utd
+651,653,Femi Seriki,40,DEF,Aston Villa,Sheffield Utd,2023-12-22T20:00:00Z,False,Sheffield Utd
+652,654,Louie Marsh,45,FWD,Aston Villa,Sheffield Utd,2023-12-22T20:00:00Z,False,Sheffield Utd
+653,655,Andre Brooks,44,MID,Aston Villa,Sheffield Utd,2023-12-22T20:00:00Z,False,Sheffield Utd
+654,656,Antwoine Hackford,45,FWD,Aston Villa,Sheffield Utd,2023-12-22T20:00:00Z,False,Sheffield Utd
+655,663,Gustavo Hamer,50,MID,Aston Villa,Sheffield Utd,2023-12-22T20:00:00Z,False,Sheffield Utd
+656,666,Tom Davies,50,MID,Aston Villa,Sheffield Utd,2023-12-22T20:00:00Z,False,Sheffield Utd
+657,693,Luke Thomas,40,DEF,Aston Villa,Sheffield Utd,2023-12-22T20:00:00Z,False,Sheffield Utd
+658,730,Ryan Oné,45,MID,Aston Villa,Sheffield Utd,2023-12-22T20:00:00Z,False,Sheffield Utd
+659,731,Jili Buyabu,40,DEF,Aston Villa,Sheffield Utd,2023-12-22T20:00:00Z,False,Sheffield Utd
+660,759,Sydie Peck,45,MID,Aston Villa,Sheffield Utd,2023-12-22T20:00:00Z,False,Sheffield Utd
+661,450,Brennan Johnson,58,MID,Spurs,Everton,2023-12-23T15:00:00Z,True,Spurs
+662,491,Brandon Austin,39,GKP,Spurs,Everton,2023-12-23T15:00:00Z,True,Spurs
+663,492,Rodrigo Bentancur,54,MID,Spurs,Everton,2023-12-23T15:00:00Z,True,Spurs
+664,493,Yves Bissouma,50,MID,Spurs,Everton,2023-12-23T15:00:00Z,True,Spurs
+665,494,Bryan Gil Salvatierra,49,MID,Spurs,Everton,2023-12-23T15:00:00Z,True,Spurs
+666,495,Ben Davies,43,DEF,Spurs,Everton,2023-12-23T15:00:00Z,True,Spurs
+667,496,Eric Dier,42,DEF,Spurs,Everton,2023-12-23T15:00:00Z,True,Spurs
+668,497,Emerson Leite de Souza Junior,44,DEF,Spurs,Everton,2023-12-23T15:00:00Z,True,Spurs
+669,498,Fraser Forster,39,GKP,Spurs,Everton,2023-12-23T15:00:00Z,True,Spurs
+670,499,Pierre-Emile Højbjerg,52,MID,Spurs,Everton,2023-12-23T15:00:00Z,True,Spurs
+671,500,Harry Kane,125,FWD,Spurs,Everton,2023-12-23T15:00:00Z,True,Spurs
+672,501,Dejan Kulusevski,71,MID,Spurs,Everton,2023-12-23T15:00:00Z,True,Spurs
+673,502,Hugo Lloris,48,GKP,Spurs,Everton,2023-12-23T15:00:00Z,True,Spurs
+674,503,Giovani Lo Celso,48,MID,Spurs,Everton,2023-12-23T15:00:00Z,True,Spurs
+675,504,James Maddison,78,MID,Spurs,Everton,2023-12-23T15:00:00Z,True,Spurs
+676,505,Tanguy Ndombélé Alvaro,44,MID,Spurs,Everton,2023-12-23T15:00:00Z,True,Spurs
+677,506,Pedro Porro,55,DEF,Spurs,Everton,2023-12-23T15:00:00Z,True,Spurs
+678,507,Ivan Perišić,47,DEF,Spurs,Everton,2023-12-23T15:00:00Z,True,Spurs
+679,509,Richarlison de Andrade,67,MID,Spurs,Everton,2023-12-23T15:00:00Z,True,Spurs
+680,510,Joe Rodon,40,DEF,Spurs,Everton,2023-12-23T15:00:00Z,True,Spurs
+681,511,Cristian Romero,49,DEF,Spurs,Everton,2023-12-23T15:00:00Z,True,Spurs
+682,512,Davinson Sánchez,44,DEF,Spurs,Everton,2023-12-23T15:00:00Z,True,Spurs
+683,513,Pape Matar Sarr,45,MID,Spurs,Everton,2023-12-23T15:00:00Z,True,Spurs
+684,514,Ryan Sessegnon,44,DEF,Spurs,Everton,2023-12-23T15:00:00Z,True,Spurs
+685,515,Oliver Skipp,46,MID,Spurs,Everton,2023-12-23T15:00:00Z,True,Spurs
+686,516,Son Heung-min,98,MID,Spurs,Everton,2023-12-23T15:00:00Z,True,Spurs
+687,517,Djed Spence,40,DEF,Spurs,Everton,2023-12-23T15:00:00Z,True,Spurs
+688,518,Japhet Tanganga,40,DEF,Spurs,Everton,2023-12-23T15:00:00Z,True,Spurs
+689,519,Destiny Udogie,48,DEF,Spurs,Everton,2023-12-23T15:00:00Z,True,Spurs
+690,520,Guglielmo Vicario,53,GKP,Spurs,Everton,2023-12-23T15:00:00Z,True,Spurs
+691,521,Alfie Whiteman,39,GKP,Spurs,Everton,2023-12-23T15:00:00Z,True,Spurs
+692,583,Manor Solomon,51,MID,Spurs,Everton,2023-12-23T15:00:00Z,True,Spurs
+693,639,Micky van de Ven,44,DEF,Spurs,Everton,2023-12-23T15:00:00Z,True,Spurs
+694,640,Dane Scarlett,45,FWD,Spurs,Everton,2023-12-23T15:00:00Z,True,Spurs
+695,641,Alejo Véliz,54,FWD,Spurs,Everton,2023-12-23T15:00:00Z,True,Spurs
+696,702,Ashley Phillips,40,DEF,Spurs,Everton,2023-12-23T15:00:00Z,True,Spurs
+697,722,Jamie Donley,45,FWD,Spurs,Everton,2023-12-23T15:00:00Z,True,Spurs
+698,740,Alfie Dorrington,40,DEF,Spurs,Everton,2023-12-23T15:00:00Z,True,Spurs
+699,754,Yago de Santiago Alonso,45,MID,Spurs,Everton,2023-12-23T15:00:00Z,True,Spurs
+700,522,Nayef Aguerd,45,DEF,West Ham,Man Utd,2023-12-23T12:30:00Z,True,West Ham
+701,523,Michail Antonio,57,FWD,West Ham,Man Utd,2023-12-23T12:30:00Z,True,West Ham
+702,524,Alphonse Areola,42,GKP,West Ham,Man Utd,2023-12-23T12:30:00Z,True,West Ham
+703,525,Saïd Benrahma,56,MID,West Ham,Man Utd,2023-12-23T12:30:00Z,True,West Ham
+704,526,Jarrod Bowen,77,MID,West Ham,Man Utd,2023-12-23T12:30:00Z,True,West Ham
+705,527,Maxwel Cornet,52,MID,West Ham,Man Utd,2023-12-23T12:30:00Z,True,West Ham
+706,528,Vladimír Coufal,46,DEF,West Ham,Man Utd,2023-12-23T12:30:00Z,True,West Ham
+707,529,Conor Coventry,44,MID,West Ham,Man Utd,2023-12-23T12:30:00Z,True,West Ham
+708,530,Aaron Cresswell,42,DEF,West Ham,Man Utd,2023-12-23T12:30:00Z,True,West Ham
+709,531,Flynn Downes,50,MID,West Ham,Man Utd,2023-12-23T12:30:00Z,True,West Ham
+710,532,Emerson Palmieri dos Santos,45,DEF,West Ham,Man Utd,2023-12-23T12:30:00Z,True,West Ham
+711,533,Lukasz Fabianski,42,GKP,West Ham,Man Utd,2023-12-23T12:30:00Z,True,West Ham
+712,534,Pablo Fornals Malla,46,MID,West Ham,Man Utd,2023-12-23T12:30:00Z,True,West Ham
+713,535,Danny Ings,56,FWD,West Ham,Man Utd,2023-12-23T12:30:00Z,True,West Ham
+714,536,Ben Johnson,44,DEF,West Ham,Man Utd,2023-12-23T12:30:00Z,True,West Ham
+715,537,Thilo Kehrer,43,DEF,West Ham,Man Utd,2023-12-23T12:30:00Z,True,West Ham
+716,538,Divin Mubama,43,FWD,West Ham,Man Utd,2023-12-23T12:30:00Z,True,West Ham
+717,539,Lucas Tolentino Coelho de Lima,60,MID,West Ham,Man Utd,2023-12-23T12:30:00Z,True,West Ham
+718,541,Gianluca Scamacca,60,FWD,West Ham,Man Utd,2023-12-23T12:30:00Z,True,West Ham
+719,542,Tomáš Souček,49,MID,West Ham,Man Utd,2023-12-23T12:30:00Z,True,West Ham
+720,543,Nikola Vlašić,45,MID,West Ham,Man Utd,2023-12-23T12:30:00Z,True,West Ham
+721,544,Kurt Zouma,45,DEF,West Ham,Man Utd,2023-12-23T12:30:00Z,True,West Ham
+722,577,Angelo Ogbonna,43,DEF,West Ham,Man Utd,2023-12-23T12:30:00Z,True,West Ham
+723,642,Edson Álvarez Velázquez,50,MID,West Ham,Man Utd,2023-12-23T12:30:00Z,True,West Ham
+724,647,Joseph Anang,40,GKP,West Ham,Man Utd,2023-12-23T12:30:00Z,True,West Ham
+725,664,James Ward-Prowse,61,MID,West Ham,Man Utd,2023-12-23T12:30:00Z,True,West Ham
+726,676,Konstantinos Mavropanos,45,DEF,West Ham,Man Utd,2023-12-23T12:30:00Z,True,West Ham
+727,689,Mohammed Kudus,67,MID,West Ham,Man Utd,2023-12-23T12:30:00Z,True,West Ham
+728,351,Tommy Doyle,44,MID,Wolves,Chelsea,2023-12-24T13:00:00Z,True,Wolves
+729,545,Rayan Aït-Nouri,45,DEF,Wolves,Chelsea,2023-12-24T13:00:00Z,True,Wolves
+730,546,Daniel Bentley,39,GKP,Wolves,Chelsea,2023-12-24T13:00:00Z,True,Wolves
+731,547,Bendegúz Bolla,40,DEF,Wolves,Chelsea,2023-12-24T13:00:00Z,True,Wolves
+732,548,Hugo Bueno López,44,DEF,Wolves,Chelsea,2023-12-24T13:00:00Z,True,Wolves
+733,549,Francisco Jorge Tomás Oliveira,45,MID,Wolves,Chelsea,2023-12-24T13:00:00Z,True,Wolves
+734,550,Luke Cundle,45,MID,Wolves,Chelsea,2023-12-24T13:00:00Z,True,Wolves
+735,551,Craig Dawson,45,DEF,Wolves,Chelsea,2023-12-24T13:00:00Z,True,Wolves
+736,552,Fábio Silva,53,FWD,Wolves,Chelsea,2023-12-24T13:00:00Z,True,Wolves
+737,554,Gonçalo Manuel Ganchinho Guedes,54,MID,Wolves,Chelsea,2023-12-24T13:00:00Z,True,Wolves
+738,555,Joe Hodge,44,MID,Wolves,Chelsea,2023-12-24T13:00:00Z,True,Wolves
+739,556,Ki-Jana Hoever,40,DEF,Wolves,Chelsea,2023-12-24T13:00:00Z,True,Wolves
+740,557,Hwang Hee-chan,58,MID,Wolves,Chelsea,2023-12-24T13:00:00Z,True,Wolves
+741,559,João Victor Gomes da Silva,49,MID,Wolves,Chelsea,2023-12-24T13:00:00Z,True,Wolves
+742,560,Jonathan Castro Otto,43,DEF,Wolves,Chelsea,2023-12-24T13:00:00Z,True,Wolves
+743,561,Bruno Cavaco Jordão,43,MID,Wolves,Chelsea,2023-12-24T13:00:00Z,True,Wolves
+744,562,Sasa Kalajdzic,49,FWD,Wolves,Chelsea,2023-12-24T13:00:00Z,True,Wolves
+745,563,Max Kilman,45,DEF,Wolves,Chelsea,2023-12-24T13:00:00Z,True,Wolves
+746,564,Tom King,39,GKP,Wolves,Chelsea,2023-12-24T13:00:00Z,True,Wolves
+747,565,Mario Lemina,49,MID,Wolves,Chelsea,2023-12-24T13:00:00Z,True,Wolves
+748,567,Pedro Lomba Neto,56,MID,Wolves,Chelsea,2023-12-24T13:00:00Z,True,Wolves
+749,568,Daniel Castelo Podence,53,MID,Wolves,Chelsea,2023-12-24T13:00:00Z,True,Wolves
+750,569,José Malheiro de Sá,50,GKP,Wolves,Chelsea,2023-12-24T13:00:00Z,True,Wolves
+751,570,Pablo Sarabia,47,MID,Wolves,Chelsea,2023-12-24T13:00:00Z,True,Wolves
+752,571,Matija Šarkić,40,GKP,Wolves,Chelsea,2023-12-24T13:00:00Z,True,Wolves
+753,572,Nélson Cabral Semedo,45,DEF,Wolves,Chelsea,2023-12-24T13:00:00Z,True,Wolves
+754,573,Toti António Gomes,44,DEF,Wolves,Chelsea,2023-12-24T13:00:00Z,True,Wolves
+755,574,Boubacar Traoré,44,MID,Wolves,Chelsea,2023-12-24T13:00:00Z,True,Wolves
+756,590,Matheus Santos Carneiro Da Cunha,57,FWD,Wolves,Chelsea,2023-12-24T13:00:00Z,True,Wolves
+757,598,Matt Doherty,43,DEF,Wolves,Chelsea,2023-12-24T13:00:00Z,True,Wolves
+758,697,Santiago Bueno,45,DEF,Wolves,Chelsea,2023-12-24T13:00:00Z,True,Wolves
+759,698,Enso González,50,MID,Wolves,Chelsea,2023-12-24T13:00:00Z,True,Wolves
+760,704,Nathan Fraser,45,FWD,Wolves,Chelsea,2023-12-24T13:00:00Z,True,Wolves
+761,715,Jean-Ricner Bellegarde,49,MID,Wolves,Chelsea,2023-12-24T13:00:00Z,True,Wolves
+762,749,Matthew Whittingham,45,MID,Wolves,Chelsea,2023-12-24T13:00:00Z,True,Wolves
+763,750,Tawanda Chirewa,45,MID,Wolves,Chelsea,2023-12-24T13:00:00Z,True,Wolves
+764,751,Justin Hubner,40,DEF,Wolves,Chelsea,2023-12-24T13:00:00Z,True,Wolves

@@ -1,0 +1,279 @@
+,name,team,minutes
+2,Omari Kellyman,Aston Villa,0.0
+5,Anthony Gordon,Newcastle,90.0
+7,Joe Willock,Newcastle,18.0
+8,Joelinton Cássio Apolinário de Lira,Newcastle,90.0
+9,Allan Saint-Maximin,Newcastle,0.0
+13,Isaac Hayden,Newcastle,0.0
+14,Sean Longstaff,Newcastle,90.0
+15,Garang Kuol,Newcastle,0.0
+16,Sandro Tonali,Newcastle,0.0
+18,Ryan Fraser,Newcastle,0.0
+22,Elliot Anderson,Newcastle,0.0
+24,Harvey Barnes,Newcastle,0.0
+26,Jacob Murphy,Newcastle,0.0
+27,Matt Ritchie,Newcastle,0.0
+28,Miguel Almirón Rejala,Newcastle,71.0
+30,Jeff Hendrick,Newcastle,0.0
+34,Bruno Guimarães Rodriguez Moura,Newcastle,90.0
+38,Boubacar Kamara,Aston Villa,78.0
+41,Philippe Coutinho Correia,Aston Villa,0.0
+43,Morgan Sanson,Aston Villa,0.0
+44,Moussa Diaby,Aston Villa,89.0
+45,Leander Dendoncker,Aston Villa,1.0
+46,Douglas Luiz Soares de Paulo,Aston Villa,89.0
+47,Leon Bailey,Aston Villa,45.0
+49,Bertrand Traoré,Aston Villa,1.0
+51,Emiliano Buendía Stati,Aston Villa,0.0
+53,Youri Tielemans,Aston Villa,11.0
+54,Jacob Ramsey,Aston Villa,0.0
+56,Jaden Philogene-Bidace,Aston Villa,0.0
+59,Tim Iroegbunam,Aston Villa,0.0
+61,John McGinn,Aston Villa,90.0
+68,Kaoru Mitoma,Brighton,90.0
+70,Kacper Kozłowski,Brighton,0.0
+71,Jakub Moder,Brighton,0.0
+72,James Milner,Brighton,0.0
+76,Mahmoud Dahoud,Brighton,70.0
+77,Julio Enciso,Brighton,0.0
+78,Jeremy Sarmiento Morante,Brighton,0.0
+83,Solly March,Brighton,0.0
+86,Yasin Ayari,Brighton,0.0
+87,Adam Lallana,Brighton,58.0
+91,Steven Alzate,Brighton,0.0
+92,Billy Gilmour,Brighton,19.0
+93,Simon Adingra,Brighton,70.0
+95,Facundo Buonanotte,Brighton,19.0
+97,Pascal Groß,Brighton,90.0
+99,Bobby Clark,Liverpool,0.0
+101,Ben Doak,Liverpool,0.0
+102,James McConnell,Liverpool,0.0
+105,Lewis Miley,Newcastle,0.0
+110,Alexis Mac Allister,Liverpool,90.0
+111,Tanguy Ndombélé Alvaro,Spurs,0.0
+115,Thiago Alcántara do Nascimento,Liverpool,0.0
+116,Curtis Jones,Liverpool,0.0
+117,Mohamed Salah,Liverpool,90.0
+120,James Maddison,Spurs,88.0
+123,Harvey Elliott,Liverpool,31.0
+126,Dominik Szoboszlai,Liverpool,90.0
+128,Dejan Kulusevski,Spurs,89.0
+129,Jack Hinshelwood,Brighton,0.0
+131,Oliver Skipp,Spurs,0.0
+135,Pape Matar Sarr,Spurs,90.0
+136,Luis Díaz,Liverpool,0.0
+140,Giovani Lo Celso,Spurs,0.0
+141,Richarlison de Andrade,Spurs,63.0
+143,Diogo Teixeira da Silva,Liverpool,57.0
+145,Fabio Henrique Tavares,Liverpool,0.0
+148,Manor Solomon,Spurs,0.0
+150,Son Heung-min,Spurs,90.0
+151,Stefan Bajcetic,Liverpool,0.0
+153,Jordan Henderson,Liverpool,0.0
+160,Bryan Gil Salvatierra,Spurs,1.0
+161,Rodrigo Bentancur,Spurs,1.0
+162,Yves Bissouma,Spurs,63.0
+164,Pierre-Emile Højbjerg,Spurs,26.0
+168,Oscar Bobb,Man City,0.0
+169,Riyad Mahrez,Man City,0.0
+171,Phil Foden,Man City,90.0
+176,Shea Charles,Man City,0.0
+177,Bernardo Veiga de Carvalho e Silva,Man City,90.0
+179,Kevin De Bruyne,Man City,0.0
+185,Jack Grealish,Man City,86.0
+186,Rodrigo Hernandez,Man City,90.0
+187,Máximo Perrone,Man City,0.0
+188,Mateo Kovačić,Man City,3.0
+190,Kalvin Phillips,Man City,0.0
+194,Nicolas Pépé,Arsenal,0.0
+195,Mohamed Elneny,Arsenal,1.0
+197,Declan Rice,Arsenal,88.0
+198,Fábio Ferreira Vieira,Arsenal,17.0
+201,Gabriel Martinelli Silva,Arsenal,65.0
+203,Granit Xhaka,Arsenal,0.0
+205,Thomas Partey,Arsenal,0.0
+206,Reiss Nelson,Arsenal,17.0
+211,Martin Ødegaard,Arsenal,0.0
+213,Marcus Oliveira Alencar,Arsenal,0.0
+214,Bukayo Saka,Arsenal,72.0
+215,Leandro Trossard,Arsenal,24.0
+221,Emile Smith Rowe,Arsenal,72.0
+222,Kai Havertz,Arsenal,90.0
+225,Jorge Luiz Frello Filho,Arsenal,0.0
+226,Moisés Caicedo Corozo,Chelsea,80.0
+227,Edson Álvarez Velázquez,West Ham,90.0
+229,Matheus Luiz Nunes,Man City,0.0
+230,Brennan Johnson,Spurs,26.0
+231,Tommy Doyle,Wolves,36.0
+233,Flynn Downes,West Ham,0.0
+234,Nikola Vlašić,West Ham,0.0
+237,Tomáš Souček,West Ham,17.0
+239,Maxwel Cornet,West Ham,0.0
+241,Pablo Fornals Malla,West Ham,0.0
+243,Lucas Tolentino Coelho de Lima,West Ham,90.0
+245,Jarrod Bowen,West Ham,90.0
+248,Conor Coventry,West Ham,0.0
+252,Saïd Benrahma,West Ham,33.0
+255,Mathias Jensen,Brentford,63.0
+256,Keane Lewis-Potter,Brentford,0.0
+260,Frank Onyeka,Brentford,26.0
+261,Vitaly Janelt,Brentford,75.0
+264,Yegor Yarmolyuk,Brentford,14.0
+266,Mads Bidstrup,Brentford,0.0
+268,Ryan Trevitt,Brentford,0.0
+269,Bryan Mbeumo,Brentford,90.0
+270,Sergi Canós Tenés,Brentford,0.0
+272,Kevin Schade,Brentford,0.0
+275,Christian Nørgaard,Brentford,90.0
+278,Josh Dasilva,Brentford,0.0
+279,Shandon Baptiste,Brentford,0.0
+285,Mikkel Damsgaard,Brentford,0.0
+286,Cole Palmer,Chelsea,90.0
+287,James McAtee,Sheffield Utd,70.0
+297,Albert Sambi Lokonga,Luton,0.0
+298,Lewis Dobbin,Everton,0.0
+300,Tyler Onyango,Everton,0.0
+305,Carney Chukwuemeka,Chelsea,0.0
+306,Christian Pulisic,Chelsea,0.0
+311,Omari Forson,Man Utd,0.0
+313,Noni Madueke,Chelsea,66.0
+315,Raheem Sterling,Chelsea,90.0
+317,Mykhailo Mudryk,Chelsea,0.0
+326,Lesley Ugochukwu,Chelsea,9.0
+328,Enzo Fernández,Chelsea,0.0
+329,Ângelo Gabriel Borges Damaceno,Chelsea,0.0
+330,Ian Maatsen,Chelsea,23.0
+331,Hakim Ziyech,Chelsea,0.0
+333,Conor Gallagher,Chelsea,90.0
+335,Hannibal Mejbri,Man Utd,0.0
+337,Scott McTominay,Man Utd,90.0
+338,Daniel Castelo Podence,Wolves,0.0
+340,Kobbie Mainoo,Man Utd,0.0
+343,Donny van de Beek,Man Utd,0.0
+346,Antony Matheus dos Santos,Man Utd,4.0
+349,Carlos Henrique Casimiro,Man Utd,0.0
+352,Luke Cundle,Wolves,0.0
+353,Pedro Lomba Neto,Wolves,76.0
+354,Mario Lemina,Wolves,85.0
+355,Boubacar Traoré,Wolves,53.0
+358,Mason Mount,Man Utd,45.0
+359,Jadon Sancho,Man Utd,0.0
+362,Marcus Rashford,Man Utd,85.0
+363,Pablo Sarabia,Wolves,0.0
+366,Bruno Borges Fernandes,Man Utd,90.0
+368,Bruno Cavaco Jordão,Wolves,0.0
+370,Hwang Hee-chan,Wolves,90.0
+373,Alejandro Garnacho,Man Utd,17.0
+378,João Victor Gomes da Silva,Wolves,4.0
+379,Frederico Rodrigues de Paula Santos,Man Utd,0.0
+384,Christian Eriksen,Man Utd,85.0
+387,Facundo Pellistri Rebollo,Man Utd,0.0
+388,Joe Hodge,Wolves,0.0
+390,Gonçalo Manuel Ganchinho Guedes,Wolves,0.0
+392,Francisco Jorge Tomás Oliveira,Wolves,0.0
+393,Amad Diallo,Man Utd,0.0
+395,Michael Olakigbe,Brentford,0.0
+396,Idrissa Gueye,Everton,0.0
+398,Demarai Gray,Everton,0.0
+399,James Garner,Everton,90.0
+401,Arnaut Danjuma Groeneveld,Everton,0.0
+410,Amadou Onana,Everton,90.0
+411,André Tavares Gomes,Everton,0.0
+412,Jean-Philippe Gbamin,Everton,0.0
+414,Dwight McNeil,Everton,90.0
+419,Abdoulaye Doucouré,Everton,90.0
+420,Dele Alli,Everton,0.0
+423,Morgan Gibbs-White,Nott'm Forest,82.0
+429,Gustavo Henrique Furtado Scarpa,Nott'm Forest,0.0
+434,Andrey Nascimento dos Santos,Nott'm Forest,7.0
+437,Ryan Yates,Nott'm Forest,21.0
+439,Anthony Elanga,Nott'm Forest,90.0
+440,Alex Mighten,Nott'm Forest,0.0
+445,Remo Freuler,Nott'm Forest,0.0
+447,Orel Mangala,Nott'm Forest,82.0
+451,Harry Arter,Nott'm Forest,0.0
+453,Danilo dos Santos de Oliveira,Nott'm Forest,0.0
+454,Braian Ojeda Rodríguez,Nott'm Forest,0.0
+455,Josh Bowler,Nott'm Forest,0.0
+457,Brandon Aguilera Zamora,Nott'm Forest,0.0
+459,Cheikhou Kouyaté,Nott'm Forest,0.0
+460,Lewis O'Brien,Nott'm Forest,0.0
+462,Jonjo Shelvey,Nott'm Forest,0.0
+466,Louie Watson,Luton,0.0
+474,Luca Koleosho,Burnley,80.0
+476,Pelly Ruddock Mpanzu,Luton,14.0
+478,Jóhann Berg Gudmundsson,Burnley,80.0
+480,Luke Berry,Luton,0.0
+481,Luke Freeman,Luton,0.0
+486,Dara Costelloe,Burnley,0.0
+487,Anass Zaroury,Burnley,67.0
+490,Scott Twine,Burnley,0.0
+494,Allan Campbell,Luton,0.0
+496,Sander Berge,Burnley,30.0
+497,Samuel Bastien,Burnley,0.0
+498,Carlos Mendes Gomes,Luton,0.0
+499,Tahith Chong,Luton,32.0
+502,Glen Rea,Luton,0.0
+505,Ross Barkley,Luton,90.0
+508,Dion Pereira,Luton,0.0
+511,Jordan Clark,Luton,0.0
+513,Marvelous Nakamba,Luton,75.0
+516,Elliot Thorpe,Luton,0.0
+517,Jack Cork,Burnley,0.0
+519,Josh Brownhill,Burnley,90.0
+520,Josh Cullen,Burnley,59.0
+521,Nathan Redmond,Burnley,9.0
+526,Enock Agyei,Burnley,0.0
+528,Jacob Bruun Larsen,Burnley,22.0
+529,Fred Onyedinma,Luton,0.0
+530,Darko Churlinov,Burnley,0.0
+535,Manuel Benson Hedilazio,Burnley,0.0
+539,Andre Brooks,Sheffield Utd,0.0
+540,Vini de Souza Costa,Sheffield Utd,90.0
+548,Anis Slimane,Sheffield Utd,58.0
+549,John Fleck,Sheffield Utd,19.0
+551,Ben Osborn,Sheffield Utd,31.0
+554,Ismaila Coulibaly,Sheffield Utd,0.0
+565,Cheick Doucouré,Crystal Palace,90.0
+566,Jordan Ayew,Crystal Palace,90.0
+567,João Palhinha Gonçalves,Fulham,90.0
+568,Willian Borges da Silva,Fulham,85.0
+570,Will Hughes,Crystal Palace,69.0
+572,Alex Iwobi,Fulham,90.0
+575,Tom Cairney,Fulham,4.0
+582,Tyrese Francois,Fulham,0.0
+584,Jairo Riedewald,Crystal Palace,0.0
+587,Michael Olise,Crystal Palace,0.0
+588,Anthony Knockaert,Fulham,0.0
+589,Ivan Neves Abreu Cavaleiro,Fulham,0.0
+592,Harry Wilson,Fulham,32.0
+597,Malcolm Ebiowei,Crystal Palace,0.0
+598,Oliver Norwood,Sheffield Utd,90.0
+603,Naouirou Ahamada,Crystal Palace,20.0
+605,Callum Hudson-Odoi,Nott'm Forest,0.0
+608,Eberechi Eze,Crystal Palace,0.0
+610,Andreas Hoelgebaum Pereira,Fulham,32.0
+611,Jeffrey Schlupp,Crystal Palace,59.0
+612,Jefferson Lerma Solís,Crystal Palace,78.0
+613,Saša Lukić,Fulham,1.0
+617,Harrison Reed,Fulham,57.0
+619,Bobby De Cordova-Reid,Fulham,57.0
+621,Matthew Dibley-Dias,Fulham,0.0
+622,Matheus França de Oliveira,Crystal Palace,11.0
+625,Jesurun Rak-Sakyi,Crystal Palace,30.0
+628,Ben Pearson,Bournemouth,0.0
+629,Marcus Tavernier,Bournemouth,81.0
+630,Jaidon Anthony,Bournemouth,0.0
+631,David Brooks,Bournemouth,0.0
+633,Jamal Lowe,Bournemouth,0.0
+634,Emiliano Marcondes,Bournemouth,0.0
+636,Hamed Traorè,Bournemouth,0.0
+640,Siriki Dembélé,Bournemouth,0.0
+641,Dango Ouattara,Bournemouth,21.0
+643,Lewis Cook,Bournemouth,0.0
+644,Joe Rothwell,Bournemouth,8.0
+646,Gavin Kilkenny,Bournemouth,0.0
+648,Justin Kluivert,Bournemouth,0.0
+650,Philip Billing,Bournemouth,81.0
+655,Ryan Christie,Bournemouth,90.0
+658,Alex Scott,Bournemouth,90.0

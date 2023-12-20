@@ -1,0 +1,684 @@
+[I 2023-12-19 09:43:19.151 ServerApp] Package jupyterlab took 0.0000s to import
+[I 2023-12-19 09:43:19.360 ServerApp] Package jupyter_lsp took 0.2074s to import
+[W 2023-12-19 09:43:19.360 ServerApp] A `_jupyter_server_extension_points` function was not found in jupyter_lsp. Instead, a `_jupyter_server_extension_paths` function was found and will be used for now. This function name will be deprecated in future releases of Jupyter Server.
+[I 2023-12-19 09:43:19.457 ServerApp] Package jupyter_server_terminals took 0.0964s to import
+[I 2023-12-19 09:43:19.457 ServerApp] Package notebook_shim took 0.0000s to import
+[W 2023-12-19 09:43:19.457 ServerApp] A `_jupyter_server_extension_points` function was not found in notebook_shim. Instead, a `_jupyter_server_extension_paths` function was found and will be used for now. This function name will be deprecated in future releases of Jupyter Server.
+[I 2023-12-19 09:43:19.461 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2023-12-19 09:43:19.470 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2023-12-19 09:43:19.478 ServerApp] jupyterlab | extension was successfully linked.
+[I 2023-12-19 09:43:21.967 ServerApp] notebook_shim | extension was successfully linked.
+[I 2023-12-19 09:43:22.428 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2023-12-19 09:43:22.431 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2023-12-19 09:43:22.435 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2023-12-19 09:43:22.466 LabApp] JupyterLab extension loaded from /autofs/space/bal_004/users/jd1677/anaconda3/envs/py3.8/lib/python3.8/site-packages/jupyterlab
+[I 2023-12-19 09:43:22.466 LabApp] JupyterLab application directory is /autofs/space/bal_004/users/jd1677/anaconda3/envs/py3.8/share/jupyter/lab
+[I 2023-12-19 09:43:22.469 LabApp] Extension Manager is 'pypi'.
+[I 2023-12-19 09:43:22.471 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2023-12-19 09:43:22.472 ServerApp] Serving notebooks from local directory: /autofs/space/bal_004/users/jd1677/fpl-ai
+[I 2023-12-19 09:43:22.472 ServerApp] Jupyter Server 2.11.2 is running at:
+[I 2023-12-19 09:43:22.472 ServerApp] http://rtx-05.nmr.mgh.harvard.edu:8888/lab?token=2e2c9554099b62973a27b191982e5269ebfdd7539000150d
+[I 2023-12-19 09:43:22.472 ServerApp]     http://127.0.0.1:8888/lab?token=2e2c9554099b62973a27b191982e5269ebfdd7539000150d
+[I 2023-12-19 09:43:22.472 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2023-12-19 09:43:22.622 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///autofs/homes/003/jd1677/.local/share/jupyter/runtime/jpserver-2658877-open.html
+    Or copy and paste one of these URLs:
+        http://rtx-05.nmr.mgh.harvard.edu:8888/lab?token=2e2c9554099b62973a27b191982e5269ebfdd7539000150d
+        http://127.0.0.1:8888/lab?token=2e2c9554099b62973a27b191982e5269ebfdd7539000150d
+[I 2023-12-19 09:43:27.279 ServerApp] Skipped non-installed server(s): bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[I 2023-12-19 09:44:20.900 ServerApp] 302 GET / (@127.0.0.1) 0.61ms
+[W 2023-12-19 09:44:26.645 LabApp] Could not determine jupyterlab build status without nodejs
+[I 2023-12-19 09:44:29.733 ServerApp] Kernel started: 9ed44302-e477-4990-9733-823622ab7f59
+[I 2023-12-19 09:44:29.738 ServerApp] Kernel started: 8ec94e28-a3c6-4db5-a4f2-b4e2422355a7
+[I 2023-12-19 09:44:29.738 ServerApp] Kernel started: e28a7287-1634-4772-a2ab-41b9b8b0586e
+[I 2023-12-19 09:44:29.739 ServerApp] Kernel started: ae441a96-b41c-4b84-b986-2fb9b4ce16a0
+[I 2023-12-19 09:44:29.739 ServerApp] Kernel started: bba3956d-c7e5-4745-aa49-931247ef1ced
+[I 2023-12-19 09:44:29.741 ServerApp] Kernel started: c7f48269-55bb-460e-aed3-07f760da91d9
+[I 2023-12-19 09:44:32.678 ServerApp] Connecting to kernel c7f48269-55bb-460e-aed3-07f760da91d9.
+[I 2023-12-19 09:44:32.719 ServerApp] Connecting to kernel ae441a96-b41c-4b84-b986-2fb9b4ce16a0.
+[I 2023-12-19 09:44:32.794 ServerApp] Starting buffering for c7f48269-55bb-460e-aed3-07f760da91d9:42bfd0bf-0bac-46cc-bacf-53402f790bff
+[I 2023-12-19 09:44:32.810 ServerApp] Connecting to kernel 9ed44302-e477-4990-9733-823622ab7f59.
+[I 2023-12-19 09:44:32.824 ServerApp] Connecting to kernel 8ec94e28-a3c6-4db5-a4f2-b4e2422355a7.
+[I 2023-12-19 09:44:32.845 ServerApp] Connecting to kernel c7f48269-55bb-460e-aed3-07f760da91d9.
+[I 2023-12-19 09:44:32.862 ServerApp] Connecting to kernel bba3956d-c7e5-4745-aa49-931247ef1ced.
+[I 2023-12-19 09:44:32.912 ServerApp] Connecting to kernel e28a7287-1634-4772-a2ab-41b9b8b0586e.
+[I 2023-12-19 09:44:32.922 ServerApp] Connecting to kernel c7f48269-55bb-460e-aed3-07f760da91d9.
+[I 2023-12-19 09:45:10.240 ServerApp] Kernel interrupted: c7f48269-55bb-460e-aed3-07f760da91d9
+[I 2023-12-19 09:45:10.436 ServerApp] Kernel interrupted: c7f48269-55bb-460e-aed3-07f760da91d9
+[I 2023-12-19 09:45:36.411 ServerApp] Kernel interrupted: c7f48269-55bb-460e-aed3-07f760da91d9
+[I 2023-12-19 09:45:37.958 ServerApp] Kernel interrupted: c7f48269-55bb-460e-aed3-07f760da91d9
+[I 2023-12-19 09:45:38.205 ServerApp] Kernel interrupted: c7f48269-55bb-460e-aed3-07f760da91d9
+[I 2023-12-19 09:46:07.075 ServerApp] Kernel interrupted: c7f48269-55bb-460e-aed3-07f760da91d9
+[I 2023-12-19 09:46:07.453 ServerApp] Kernel interrupted: c7f48269-55bb-460e-aed3-07f760da91d9
+[I 2023-12-19 09:46:07.653 ServerApp] Kernel interrupted: c7f48269-55bb-460e-aed3-07f760da91d9
+[I 2023-12-19 09:46:07.828 ServerApp] Kernel interrupted: c7f48269-55bb-460e-aed3-07f760da91d9
+[I 2023-12-19 09:46:08.006 ServerApp] Kernel interrupted: c7f48269-55bb-460e-aed3-07f760da91d9
+[I 2023-12-19 09:46:08.185 ServerApp] Kernel interrupted: c7f48269-55bb-460e-aed3-07f760da91d9
+[I 2023-12-19 09:46:08.409 ServerApp] Kernel interrupted: c7f48269-55bb-460e-aed3-07f760da91d9
+[I 2023-12-19 09:46:29.189 ServerApp] Saving file at /visualize.ipynb
+[I 2023-12-19 09:58:44.561 ServerApp] Kernel interrupted: c7f48269-55bb-460e-aed3-07f760da91d9
+[I 2023-12-19 10:00:30.133 ServerApp] Saving file at /visualize.ipynb
+[I 2023-12-19 10:03:23.368 ServerApp] Kernel interrupted: bba3956d-c7e5-4745-aa49-931247ef1ced
+[I 2023-12-19 10:04:24.535 ServerApp] Kernel interrupted: c7f48269-55bb-460e-aed3-07f760da91d9
+[I 2023-12-19 10:04:31.143 ServerApp] Saving file at /visualize.ipynb
+[I 2023-12-19 10:04:56.241 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 10:06:33.293 ServerApp] Saving file at /visualize.ipynb
+[I 2023-12-19 10:08:57.193 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 10:09:28.518 ServerApp] Kernel interrupted: c7f48269-55bb-460e-aed3-07f760da91d9
+[I 2023-12-19 10:09:28.788 ServerApp] Kernel interrupted: c7f48269-55bb-460e-aed3-07f760da91d9
+[I 2023-12-19 10:09:29.023 ServerApp] Kernel interrupted: c7f48269-55bb-460e-aed3-07f760da91d9
+[I 2023-12-19 10:09:29.241 ServerApp] Kernel interrupted: c7f48269-55bb-460e-aed3-07f760da91d9
+[I 2023-12-19 10:09:29.457 ServerApp] Kernel interrupted: c7f48269-55bb-460e-aed3-07f760da91d9
+[I 2023-12-19 10:09:29.631 ServerApp] Kernel interrupted: c7f48269-55bb-460e-aed3-07f760da91d9
+[I 2023-12-19 10:09:29.815 ServerApp] Kernel interrupted: c7f48269-55bb-460e-aed3-07f760da91d9
+[I 2023-12-19 10:09:30.009 ServerApp] Kernel interrupted: c7f48269-55bb-460e-aed3-07f760da91d9
+[I 2023-12-19 10:09:30.203 ServerApp] Kernel interrupted: c7f48269-55bb-460e-aed3-07f760da91d9
+[I 2023-12-19 10:09:30.356 ServerApp] Kernel interrupted: c7f48269-55bb-460e-aed3-07f760da91d9
+[I 2023-12-19 10:09:30.540 ServerApp] Kernel interrupted: c7f48269-55bb-460e-aed3-07f760da91d9
+[I 2023-12-19 10:09:30.691 ServerApp] Kernel interrupted: c7f48269-55bb-460e-aed3-07f760da91d9
+[I 2023-12-19 10:09:30.871 ServerApp] Kernel interrupted: c7f48269-55bb-460e-aed3-07f760da91d9
+[I 2023-12-19 10:09:31.089 ServerApp] Kernel interrupted: c7f48269-55bb-460e-aed3-07f760da91d9
+[I 2023-12-19 10:09:31.288 ServerApp] Kernel interrupted: c7f48269-55bb-460e-aed3-07f760da91d9
+[I 2023-12-19 10:09:31.475 ServerApp] Kernel interrupted: c7f48269-55bb-460e-aed3-07f760da91d9
+[I 2023-12-19 10:09:31.676 ServerApp] Kernel interrupted: c7f48269-55bb-460e-aed3-07f760da91d9
+[I 2023-12-19 10:09:31.885 ServerApp] Kernel interrupted: c7f48269-55bb-460e-aed3-07f760da91d9
+[I 2023-12-19 10:09:32.040 ServerApp] Kernel interrupted: c7f48269-55bb-460e-aed3-07f760da91d9
+[I 2023-12-19 10:09:32.212 ServerApp] Kernel interrupted: c7f48269-55bb-460e-aed3-07f760da91d9
+[I 2023-12-19 10:09:44.942 ServerApp] Kernel interrupted: c7f48269-55bb-460e-aed3-07f760da91d9
+[I 2023-12-19 10:09:45.329 ServerApp] Kernel interrupted: c7f48269-55bb-460e-aed3-07f760da91d9
+[W 2023-12-19 10:09:53.248 ServerApp] 404 GET /api/contents/logs?content=1&1702998593224 (71b74f0b6f1b433983e03514bc14100a@127.0.0.1) 2.43ms referer=http://localhost:8888/lab/tree/visualize.ipynb
+[W 2023-12-19 10:09:53.248 ServerApp] 404 GET /api/contents/logs?content=1&1702998593224 (127.0.0.1): No such file or directory: logs
+[I 2023-12-19 10:10:03.960 ServerApp] Kernel restarted: bba3956d-c7e5-4745-aa49-931247ef1ced
+[I 2023-12-19 10:10:03.980 ServerApp] Starting buffering for bba3956d-c7e5-4745-aa49-931247ef1ced:01e78ac6-58ab-4277-ace2-594a468ab274
+[I 2023-12-19 10:10:04.040 ServerApp] Connecting to kernel bba3956d-c7e5-4745-aa49-931247ef1ced.
+[I 2023-12-19 10:10:04.040 ServerApp] Restoring connection for bba3956d-c7e5-4745-aa49-931247ef1ced:01e78ac6-58ab-4277-ace2-594a468ab274
+[I 2023-12-19 10:10:08.407 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 10:10:33.589 ServerApp] Saving file at /visualize.ipynb
+[I 2023-12-19 10:11:01.922 ServerApp] Kernel interrupted: c7f48269-55bb-460e-aed3-07f760da91d9
+[I 2023-12-19 10:12:08.777 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 10:12:34.179 ServerApp] Saving file at /visualize.ipynb
+[I 2023-12-19 10:15:29.702 ServerApp] Kernel interrupted: bba3956d-c7e5-4745-aa49-931247ef1ced
+[I 2023-12-19 10:15:30.109 ServerApp] Kernel interrupted: bba3956d-c7e5-4745-aa49-931247ef1ced
+[I 2023-12-19 10:15:30.293 ServerApp] Kernel interrupted: bba3956d-c7e5-4745-aa49-931247ef1ced
+[I 2023-12-19 10:16:09.317 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 10:18:10.162 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 10:20:11.201 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 10:22:11.339 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 10:24:11.459 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 10:25:19.765 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 10:25:24.975 ServerApp] Kernel restarted: bba3956d-c7e5-4745-aa49-931247ef1ced
+[I 2023-12-19 10:25:25.148 ServerApp] Starting buffering for bba3956d-c7e5-4745-aa49-931247ef1ced:01e78ac6-58ab-4277-ace2-594a468ab274
+[I 2023-12-19 10:25:25.169 ServerApp] Connecting to kernel bba3956d-c7e5-4745-aa49-931247ef1ced.
+[I 2023-12-19 10:25:25.169 ServerApp] Restoring connection for bba3956d-c7e5-4745-aa49-931247ef1ced:01e78ac6-58ab-4277-ace2-594a468ab274
+[I 2023-12-19 10:27:19.891 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 10:28:19.211 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 10:28:44.437 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 10:28:55.313 ServerApp] Kernel restarted: bba3956d-c7e5-4745-aa49-931247ef1ced
+[I 2023-12-19 10:28:55.322 ServerApp] Starting buffering for bba3956d-c7e5-4745-aa49-931247ef1ced:01e78ac6-58ab-4277-ace2-594a468ab274
+[I 2023-12-19 10:28:55.334 ServerApp] Connecting to kernel bba3956d-c7e5-4745-aa49-931247ef1ced.
+[I 2023-12-19 10:28:55.334 ServerApp] Restoring connection for bba3956d-c7e5-4745-aa49-931247ef1ced:01e78ac6-58ab-4277-ace2-594a468ab274
+[I 2023-12-19 10:29:38.764 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 10:29:47.565 ServerApp] Kernel restarted: bba3956d-c7e5-4745-aa49-931247ef1ced
+[I 2023-12-19 10:29:47.632 ServerApp] Starting buffering for bba3956d-c7e5-4745-aa49-931247ef1ced:01e78ac6-58ab-4277-ace2-594a468ab274
+[I 2023-12-19 10:29:47.645 ServerApp] Connecting to kernel bba3956d-c7e5-4745-aa49-931247ef1ced.
+[I 2023-12-19 10:29:47.645 ServerApp] Restoring connection for bba3956d-c7e5-4745-aa49-931247ef1ced:01e78ac6-58ab-4277-ace2-594a468ab274
+[I 2023-12-19 10:31:38.988 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 10:31:43.617 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 10:32:32.309 ServerApp] Kernel restarted: bba3956d-c7e5-4745-aa49-931247ef1ced
+[I 2023-12-19 10:32:32.350 ServerApp] Starting buffering for bba3956d-c7e5-4745-aa49-931247ef1ced:01e78ac6-58ab-4277-ace2-594a468ab274
+[I 2023-12-19 10:32:32.381 ServerApp] Connecting to kernel bba3956d-c7e5-4745-aa49-931247ef1ced.
+[I 2023-12-19 10:32:32.381 ServerApp] Restoring connection for bba3956d-c7e5-4745-aa49-931247ef1ced:01e78ac6-58ab-4277-ace2-594a468ab274
+[I 2023-12-19 10:33:15.307 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 10:33:18.359 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 10:33:18.675 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 10:33:18.865 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 10:33:19.185 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 10:33:19.377 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 10:33:19.548 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 10:33:24.333 ServerApp] Kernel restarted: bba3956d-c7e5-4745-aa49-931247ef1ced
+[I 2023-12-19 10:33:24.401 ServerApp] Starting buffering for bba3956d-c7e5-4745-aa49-931247ef1ced:01e78ac6-58ab-4277-ace2-594a468ab274
+[I 2023-12-19 10:33:24.476 ServerApp] Connecting to kernel bba3956d-c7e5-4745-aa49-931247ef1ced.
+[I 2023-12-19 10:33:24.476 ServerApp] Restoring connection for bba3956d-c7e5-4745-aa49-931247ef1ced:01e78ac6-58ab-4277-ace2-594a468ab274
+[I 2023-12-19 10:35:19.709 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 10:35:35.897 ServerApp] Kernel restarted: bba3956d-c7e5-4745-aa49-931247ef1ced
+[I 2023-12-19 10:35:35.905 ServerApp] Starting buffering for bba3956d-c7e5-4745-aa49-931247ef1ced:01e78ac6-58ab-4277-ace2-594a468ab274
+[I 2023-12-19 10:35:35.968 ServerApp] Connecting to kernel bba3956d-c7e5-4745-aa49-931247ef1ced.
+[I 2023-12-19 10:35:35.968 ServerApp] Restoring connection for bba3956d-c7e5-4745-aa49-931247ef1ced:01e78ac6-58ab-4277-ace2-594a468ab274
+[I 2023-12-19 10:37:19.813 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 10:37:45.006 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 10:39:45.150 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 10:40:32.082 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 10:40:38.587 ServerApp] Kernel restarted: bba3956d-c7e5-4745-aa49-931247ef1ced
+[I 2023-12-19 10:40:38.634 ServerApp] Starting buffering for bba3956d-c7e5-4745-aa49-931247ef1ced:01e78ac6-58ab-4277-ace2-594a468ab274
+[I 2023-12-19 10:40:38.679 ServerApp] Connecting to kernel bba3956d-c7e5-4745-aa49-931247ef1ced.
+[I 2023-12-19 10:40:38.679 ServerApp] Restoring connection for bba3956d-c7e5-4745-aa49-931247ef1ced:01e78ac6-58ab-4277-ace2-594a468ab274
+[I 2023-12-19 10:42:32.224 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 10:42:46.796 ServerApp] Kernel restarted: bba3956d-c7e5-4745-aa49-931247ef1ced
+[I 2023-12-19 10:42:46.835 ServerApp] Starting buffering for bba3956d-c7e5-4745-aa49-931247ef1ced:01e78ac6-58ab-4277-ace2-594a468ab274
+[I 2023-12-19 10:42:46.849 ServerApp] Connecting to kernel bba3956d-c7e5-4745-aa49-931247ef1ced.
+[I 2023-12-19 10:42:46.850 ServerApp] Restoring connection for bba3956d-c7e5-4745-aa49-931247ef1ced:01e78ac6-58ab-4277-ace2-594a468ab274
+[I 2023-12-19 10:44:32.353 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 10:46:17.379 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 10:46:25.097 ServerApp] Kernel restarted: bba3956d-c7e5-4745-aa49-931247ef1ced
+[I 2023-12-19 10:46:25.125 ServerApp] Starting buffering for bba3956d-c7e5-4745-aa49-931247ef1ced:01e78ac6-58ab-4277-ace2-594a468ab274
+[I 2023-12-19 10:46:25.136 ServerApp] Connecting to kernel bba3956d-c7e5-4745-aa49-931247ef1ced.
+[I 2023-12-19 10:46:25.136 ServerApp] Restoring connection for bba3956d-c7e5-4745-aa49-931247ef1ced:01e78ac6-58ab-4277-ace2-594a468ab274
+[I 2023-12-19 10:48:17.576 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 10:49:09.022 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 10:49:27.127 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 10:49:49.170 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 10:50:09.895 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 10:50:15.030 ServerApp] Kernel restarted: bba3956d-c7e5-4745-aa49-931247ef1ced
+[I 2023-12-19 10:50:15.079 ServerApp] Starting buffering for bba3956d-c7e5-4745-aa49-931247ef1ced:01e78ac6-58ab-4277-ace2-594a468ab274
+[I 2023-12-19 10:50:15.126 ServerApp] Connecting to kernel bba3956d-c7e5-4745-aa49-931247ef1ced.
+[I 2023-12-19 10:50:15.126 ServerApp] Restoring connection for bba3956d-c7e5-4745-aa49-931247ef1ced:01e78ac6-58ab-4277-ace2-594a468ab274
+[I 2023-12-19 10:50:57.445 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 10:52:39.490 ServerApp] Kernel started: 2d7f75ed-ab9e-4be6-86d9-c7530ebc70b3
+[I 2023-12-19 10:52:43.170 ServerApp] Connecting to kernel 2d7f75ed-ab9e-4be6-86d9-c7530ebc70b3.
+[I 2023-12-19 10:52:57.656 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 10:57:15.280 ServerApp] Starting buffering for 2d7f75ed-ab9e-4be6-86d9-c7530ebc70b3:045f882a-bf6b-4cee-94a1-9f8ebdde2c15
+[I 2023-12-19 10:57:47.414 ServerApp] Connecting to kernel 2d7f75ed-ab9e-4be6-86d9-c7530ebc70b3.
+[I 2023-12-19 10:59:47.513 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 10:59:52.810 ServerApp] Kernel restarted: bba3956d-c7e5-4745-aa49-931247ef1ced
+[I 2023-12-19 10:59:52.837 ServerApp] Starting buffering for bba3956d-c7e5-4745-aa49-931247ef1ced:01e78ac6-58ab-4277-ace2-594a468ab274
+[I 2023-12-19 10:59:52.852 ServerApp] Connecting to kernel bba3956d-c7e5-4745-aa49-931247ef1ced.
+[I 2023-12-19 10:59:52.852 ServerApp] Restoring connection for bba3956d-c7e5-4745-aa49-931247ef1ced:01e78ac6-58ab-4277-ace2-594a468ab274
+[I 2023-12-19 11:01:33.717 ServerApp] Kernel restarted: bba3956d-c7e5-4745-aa49-931247ef1ced
+[I 2023-12-19 11:01:33.729 ServerApp] Starting buffering for bba3956d-c7e5-4745-aa49-931247ef1ced:01e78ac6-58ab-4277-ace2-594a468ab274
+[I 2023-12-19 11:01:33.744 ServerApp] Connecting to kernel bba3956d-c7e5-4745-aa49-931247ef1ced.
+[I 2023-12-19 11:01:33.744 ServerApp] Restoring connection for bba3956d-c7e5-4745-aa49-931247ef1ced:01e78ac6-58ab-4277-ace2-594a468ab274
+[I 2023-12-19 11:01:47.637 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 11:01:50.057 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 11:01:53.754 ServerApp] Kernel restarted: bba3956d-c7e5-4745-aa49-931247ef1ced
+[I 2023-12-19 11:01:53.791 ServerApp] Starting buffering for bba3956d-c7e5-4745-aa49-931247ef1ced:01e78ac6-58ab-4277-ace2-594a468ab274
+[I 2023-12-19 11:01:53.818 ServerApp] Connecting to kernel bba3956d-c7e5-4745-aa49-931247ef1ced.
+[I 2023-12-19 11:01:53.818 ServerApp] Restoring connection for bba3956d-c7e5-4745-aa49-931247ef1ced:01e78ac6-58ab-4277-ace2-594a468ab274
+[I 2023-12-19 11:03:50.171 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 11:05:50.297 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 11:06:47.298 ServerApp] Saving file at /4. train_model-cnn.ipynb
+TBB Warning: The number of workers is currently limited to 2. The request for 31 workers is ignored. Further requests for more workers will be silently ignored until the limit changes.
+
+[I 2023-12-19 11:08:41.062 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 11:09:44.792 ServerApp] Saving file at /train_model.ipynb
+[I 2023-12-19 11:11:16.932 ServerApp] Kernel restarted: 2d7f75ed-ab9e-4be6-86d9-c7530ebc70b3
+[I 2023-12-19 11:11:16.971 ServerApp] Starting buffering for 2d7f75ed-ab9e-4be6-86d9-c7530ebc70b3:ba457f9e-37f2-4c16-80ea-8ca22dbbda24
+[I 2023-12-19 11:11:16.989 ServerApp] Connecting to kernel 2d7f75ed-ab9e-4be6-86d9-c7530ebc70b3.
+[I 2023-12-19 11:11:16.989 ServerApp] Restoring connection for 2d7f75ed-ab9e-4be6-86d9-c7530ebc70b3:ba457f9e-37f2-4c16-80ea-8ca22dbbda24
+[I 2023-12-19 11:11:29.973 ServerApp] Kernel restarted: bba3956d-c7e5-4745-aa49-931247ef1ced
+[I 2023-12-19 11:11:30.025 ServerApp] Starting buffering for bba3956d-c7e5-4745-aa49-931247ef1ced:01e78ac6-58ab-4277-ace2-594a468ab274
+[I 2023-12-19 11:11:30.039 ServerApp] Connecting to kernel bba3956d-c7e5-4745-aa49-931247ef1ced.
+[I 2023-12-19 11:11:30.039 ServerApp] Restoring connection for bba3956d-c7e5-4745-aa49-931247ef1ced:01e78ac6-58ab-4277-ace2-594a468ab274
+[I 2023-12-19 11:11:44.977 ServerApp] Saving file at /train_model.ipynb
+[I 2023-12-19 11:12:41.216 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 11:14:41.397 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 11:16:41.614 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 11:16:46.077 ServerApp] Kernel restarted: bba3956d-c7e5-4745-aa49-931247ef1ced
+[I 2023-12-19 11:16:46.093 ServerApp] Starting buffering for bba3956d-c7e5-4745-aa49-931247ef1ced:01e78ac6-58ab-4277-ace2-594a468ab274
+[I 2023-12-19 11:16:46.131 ServerApp] Connecting to kernel bba3956d-c7e5-4745-aa49-931247ef1ced.
+[I 2023-12-19 11:16:46.131 ServerApp] Restoring connection for bba3956d-c7e5-4745-aa49-931247ef1ced:01e78ac6-58ab-4277-ace2-594a468ab274
+[I 2023-12-19 11:18:41.770 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 11:21:54.336 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 11:22:29.235 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 11:23:37.234 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 11:24:19.316 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 11:24:33.208 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 11:24:38.284 ServerApp] Kernel restarted: bba3956d-c7e5-4745-aa49-931247ef1ced
+[I 2023-12-19 11:24:38.291 ServerApp] Starting buffering for bba3956d-c7e5-4745-aa49-931247ef1ced:01e78ac6-58ab-4277-ace2-594a468ab274
+[I 2023-12-19 11:24:38.310 ServerApp] Connecting to kernel bba3956d-c7e5-4745-aa49-931247ef1ced.
+[I 2023-12-19 11:24:38.311 ServerApp] Restoring connection for bba3956d-c7e5-4745-aa49-931247ef1ced:01e78ac6-58ab-4277-ace2-594a468ab274
+TBB Warning: The number of workers is currently limited to 2. The request for 31 workers is ignored. Further requests for more workers will be silently ignored until the limit changes.
+
+[I 2023-12-19 11:26:33.326 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 11:27:53.904 ServerApp] Kernel interrupted: bba3956d-c7e5-4745-aa49-931247ef1ced
+[I 2023-12-19 11:28:33.434 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 11:30:33.654 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 11:32:33.802 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 11:32:40.383 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 11:33:00.245 ServerApp] Kernel restarted: bba3956d-c7e5-4745-aa49-931247ef1ced
+[I 2023-12-19 11:33:00.289 ServerApp] Starting buffering for bba3956d-c7e5-4745-aa49-931247ef1ced:01e78ac6-58ab-4277-ace2-594a468ab274
+[I 2023-12-19 11:33:00.300 ServerApp] Connecting to kernel bba3956d-c7e5-4745-aa49-931247ef1ced.
+[I 2023-12-19 11:33:00.300 ServerApp] Restoring connection for bba3956d-c7e5-4745-aa49-931247ef1ced:01e78ac6-58ab-4277-ace2-594a468ab274
+TBB Warning: The number of workers is currently limited to 2. The request for 31 workers is ignored. Further requests for more workers will be silently ignored until the limit changes.
+
+[I 2023-12-19 11:34:40.559 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 11:36:40.715 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 11:38:41.212 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 11:42:42.197 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 11:44:42.419 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 11:46:14.123 ServerApp] Kernel restarted: bba3956d-c7e5-4745-aa49-931247ef1ced
+[I 2023-12-19 11:46:14.129 ServerApp] Starting buffering for bba3956d-c7e5-4745-aa49-931247ef1ced:01e78ac6-58ab-4277-ace2-594a468ab274
+[I 2023-12-19 11:46:14.197 ServerApp] Connecting to kernel bba3956d-c7e5-4745-aa49-931247ef1ced.
+[I 2023-12-19 11:46:14.197 ServerApp] Restoring connection for bba3956d-c7e5-4745-aa49-931247ef1ced:01e78ac6-58ab-4277-ace2-594a468ab274
+TBB Warning: The number of workers is currently limited to 2. The request for 31 workers is ignored. Further requests for more workers will be silently ignored until the limit changes.
+
+[I 2023-12-19 11:46:42.542 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 11:48:42.763 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 11:49:58.487 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 11:51:47.135 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 11:53:47.316 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 11:55:48.179 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 11:57:49.221 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 11:58:29.584 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 12:00:29.867 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 12:01:40.562 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 12:03:41.280 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 12:06:05.165 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 12:06:24.147 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 12:08:24.323 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 12:43:14.208 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 12:45:14.415 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 12:46:46.982 ServerApp] Kernel interrupted: bba3956d-c7e5-4745-aa49-931247ef1ced
+[I 2023-12-19 12:47:15.194 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 12:47:32.581 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 12:49:27.907 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 12:51:19.775 ServerApp] Kernel started: 4c28f5b7-a938-4042-a1ac-e48e9621adc0
+[I 2023-12-19 12:51:23.344 ServerApp] Connecting to kernel 4c28f5b7-a938-4042-a1ac-e48e9621adc0.
+[I 2023-12-19 12:51:28.324 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 12:51:35.290 ServerApp] Starting buffering for 4c28f5b7-a938-4042-a1ac-e48e9621adc0:c91c02ad-36a0-473c-8fa0-4d99137a3388
+[I 2023-12-19 12:52:27.355 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 12:52:42.849 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 12:52:53.972 ServerApp] Kernel interrupted: c7f48269-55bb-460e-aed3-07f760da91d9
+[I 2023-12-19 12:52:54.438 ServerApp] Kernel interrupted: c7f48269-55bb-460e-aed3-07f760da91d9
+[I 2023-12-19 12:52:54.612 ServerApp] Kernel interrupted: c7f48269-55bb-460e-aed3-07f760da91d9
+[I 2023-12-19 12:53:15.195 ServerApp] Saving file at /visualize.ipynb
+[I 2023-12-19 12:54:22.846 ServerApp] Kernel interrupted: c7f48269-55bb-460e-aed3-07f760da91d9
+[I 2023-12-19 12:54:38.537 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 12:54:42.949 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 12:56:12.952 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 12:56:37.991 ServerApp] Kernel interrupted: bba3956d-c7e5-4745-aa49-931247ef1ced
+[I 2023-12-19 12:56:38.381 ServerApp] Kernel interrupted: bba3956d-c7e5-4745-aa49-931247ef1ced
+[I 2023-12-19 12:58:13.210 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 12:58:45.778 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 13:00:45.909 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 13:03:54.059 ServerApp] Kernel interrupted: bba3956d-c7e5-4745-aa49-931247ef1ced
+[I 2023-12-19 13:03:54.308 ServerApp] Kernel interrupted: bba3956d-c7e5-4745-aa49-931247ef1ced
+[I 2023-12-19 13:04:46.235 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 13:06:47.194 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 13:08:47.325 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 13:10:47.545 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 13:12:48.194 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 13:14:49.221 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 13:16:49.343 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 13:18:49.463 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 13:21:18.760 ServerApp] Kernel interrupted: bba3956d-c7e5-4745-aa49-931247ef1ced
+[I 2023-12-19 13:21:28.438 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 13:21:44.347 ServerApp] Kernel interrupted: c7f48269-55bb-460e-aed3-07f760da91d9
+[I 2023-12-19 13:21:59.969 ServerApp] Kernel interrupted: bba3956d-c7e5-4745-aa49-931247ef1ced
+[I 2023-12-19 13:22:00.394 ServerApp] Kernel interrupted: bba3956d-c7e5-4745-aa49-931247ef1ced
+[I 2023-12-19 13:22:10.660 ServerApp] Kernel interrupted: c7f48269-55bb-460e-aed3-07f760da91d9
+[I 2023-12-19 13:22:10.975 ServerApp] Kernel interrupted: c7f48269-55bb-460e-aed3-07f760da91d9
+[I 2023-12-19 13:22:11.192 ServerApp] Kernel interrupted: c7f48269-55bb-460e-aed3-07f760da91d9
+[I 2023-12-19 13:22:11.348 ServerApp] Kernel interrupted: c7f48269-55bb-460e-aed3-07f760da91d9
+[I 2023-12-19 13:22:11.559 ServerApp] Kernel interrupted: c7f48269-55bb-460e-aed3-07f760da91d9
+[I 2023-12-19 13:23:10.875 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 13:23:20.189 ServerApp] Saving file at /visualize.ipynb
+[I 2023-12-19 13:23:58.932 ServerApp] Kernel interrupted: bba3956d-c7e5-4745-aa49-931247ef1ced
+[I 2023-12-19 13:23:59.128 ServerApp] Kernel interrupted: bba3956d-c7e5-4745-aa49-931247ef1ced
+[I 2023-12-19 13:23:59.283 ServerApp] Kernel interrupted: bba3956d-c7e5-4745-aa49-931247ef1ced
+[I 2023-12-19 13:23:59.467 ServerApp] Kernel interrupted: bba3956d-c7e5-4745-aa49-931247ef1ced
+[I 2023-12-19 13:24:20.677 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 13:24:30.831 ServerApp] Kernel interrupted: c7f48269-55bb-460e-aed3-07f760da91d9
+[I 2023-12-19 13:24:31.043 ServerApp] Kernel interrupted: c7f48269-55bb-460e-aed3-07f760da91d9
+[I 2023-12-19 13:24:31.269 ServerApp] Kernel interrupted: c7f48269-55bb-460e-aed3-07f760da91d9
+[I 2023-12-19 13:24:31.471 ServerApp] Kernel interrupted: c7f48269-55bb-460e-aed3-07f760da91d9
+[I 2023-12-19 13:26:20.787 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 13:28:21.216 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 13:29:22.843 ServerApp] Kernel interrupted: c7f48269-55bb-460e-aed3-07f760da91d9
+[I 2023-12-19 13:30:21.342 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 13:30:43.598 ServerApp] Kernel interrupted: bba3956d-c7e5-4745-aa49-931247ef1ced
+[I 2023-12-19 13:30:43.852 ServerApp] Kernel interrupted: bba3956d-c7e5-4745-aa49-931247ef1ced
+[I 2023-12-19 13:30:51.409 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 13:31:20.333 ServerApp] Saving file at /visualize.ipynb
+[I 2023-12-19 13:32:52.235 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 13:33:49.037 ServerApp] Kernel interrupted: bba3956d-c7e5-4745-aa49-931247ef1ced
+[I 2023-12-19 13:33:51.876 ServerApp] Kernel interrupted: c7f48269-55bb-460e-aed3-07f760da91d9
+[I 2023-12-19 13:33:52.181 ServerApp] Kernel interrupted: c7f48269-55bb-460e-aed3-07f760da91d9
+[I 2023-12-19 13:33:52.378 ServerApp] Kernel interrupted: c7f48269-55bb-460e-aed3-07f760da91d9
+[I 2023-12-19 13:34:07.966 ServerApp] Kernel interrupted: c7f48269-55bb-460e-aed3-07f760da91d9
+[I 2023-12-19 13:34:53.212 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 13:35:22.233 ServerApp] Saving file at /visualize.ipynb
+[I 2023-12-19 13:49:14.275 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 13:52:02.526 ServerApp] Kernel interrupted: c7f48269-55bb-460e-aed3-07f760da91d9
+[I 2023-12-19 13:52:02.747 ServerApp] Kernel interrupted: c7f48269-55bb-460e-aed3-07f760da91d9
+[I 2023-12-19 13:53:15.241 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 13:53:27.866 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 13:54:20.783 ServerApp] Kernel interrupted: c7f48269-55bb-460e-aed3-07f760da91d9
+[I 2023-12-19 13:55:28.089 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 13:56:15.205 ServerApp] Saving file at /visualize.ipynb
+[I 2023-12-19 14:09:14.320 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 14:28:14.244 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 14:30:14.360 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 14:32:14.513 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 14:34:14.708 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 14:34:42.059 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 14:36:42.258 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 14:38:42.430 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 14:40:42.557 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 14:51:14.232 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 14:57:15.210 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 16:41:15.287 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 16:43:16.245 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 16:45:25.148 ServerApp] Saving file at /utils.py
+[I 2023-12-19 16:45:33.416 ServerApp] Saving file at /utils.py
+[I 2023-12-19 16:47:16.391 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 16:49:16.841 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 16:51:17.094 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 16:53:17.427 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 16:55:18.439 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 16:58:03.497 ServerApp] Starting buffering for c7f48269-55bb-460e-aed3-07f760da91d9:384b3b71-c8f4-4c6b-95cd-9418d36434a7
+[I 2023-12-19 16:58:03.502 ServerApp] Starting buffering for 8ec94e28-a3c6-4db5-a4f2-b4e2422355a7:bcf28f21-dccd-497d-b20c-545fefce8bcd
+[I 2023-12-19 16:58:03.504 ServerApp] Starting buffering for 2d7f75ed-ab9e-4be6-86d9-c7530ebc70b3:ba457f9e-37f2-4c16-80ea-8ca22dbbda24
+[I 2023-12-19 16:58:03.512 ServerApp] Starting buffering for ae441a96-b41c-4b84-b986-2fb9b4ce16a0:949fc64d-46a0-4678-ab62-69d1d8880a4c
+[I 2023-12-19 16:58:03.513 ServerApp] Starting buffering for bba3956d-c7e5-4745-aa49-931247ef1ced:01e78ac6-58ab-4277-ace2-594a468ab274
+[I 2023-12-19 16:58:03.513 ServerApp] Starting buffering for 9ed44302-e477-4990-9733-823622ab7f59:ff09c18a-1462-4c43-a338-2c68fca4dc49
+[I 2023-12-19 16:58:03.514 ServerApp] Starting buffering for e28a7287-1634-4772-a2ab-41b9b8b0586e:504d0d15-72d4-418a-ab56-b78a9c6dd961
+[W 2023-12-19 16:58:10.094 LabApp] Could not determine jupyterlab build status without nodejs
+[I 2023-12-19 16:58:10.208 ServerApp] Connecting to kernel 9ed44302-e477-4990-9733-823622ab7f59.
+[I 2023-12-19 16:58:10.233 ServerApp] Connecting to kernel 8ec94e28-a3c6-4db5-a4f2-b4e2422355a7.
+[I 2023-12-19 16:58:10.256 ServerApp] Connecting to kernel e28a7287-1634-4772-a2ab-41b9b8b0586e.
+[I 2023-12-19 16:58:10.318 ServerApp] Connecting to kernel ae441a96-b41c-4b84-b986-2fb9b4ce16a0.
+[I 2023-12-19 16:58:10.358 ServerApp] Connecting to kernel bba3956d-c7e5-4745-aa49-931247ef1ced.
+[I 2023-12-19 16:58:10.414 ServerApp] Connecting to kernel c7f48269-55bb-460e-aed3-07f760da91d9.
+[I 2023-12-19 16:58:10.439 ServerApp] Connecting to kernel 2d7f75ed-ab9e-4be6-86d9-c7530ebc70b3.
+[I 2023-12-19 16:58:10.477 ServerApp] Connecting to kernel 4c28f5b7-a938-4042-a1ac-e48e9621adc0.
+[I 2023-12-19 16:58:10.486 ServerApp] Starting buffering for 9ed44302-e477-4990-9733-823622ab7f59:50d68c20-63e6-49ae-8357-fca0802fc12b
+[I 2023-12-19 16:58:10.528 ServerApp] Starting buffering for 8ec94e28-a3c6-4db5-a4f2-b4e2422355a7:cb14a892-64cb-4e6a-8daf-4a89d78515fb
+[I 2023-12-19 16:58:10.531 ServerApp] Starting buffering for e28a7287-1634-4772-a2ab-41b9b8b0586e:44ec92fd-f1e1-42cd-aa12-05370ef6c6d4
+[I 2023-12-19 16:58:10.532 ServerApp] Starting buffering for ae441a96-b41c-4b84-b986-2fb9b4ce16a0:e628d38e-3713-43da-8a1a-433f2265bfb5
+[I 2023-12-19 16:58:10.585 ServerApp] Starting buffering for c7f48269-55bb-460e-aed3-07f760da91d9:81e2876c-5d30-43f6-abbd-46f0c7f41ff6
+[I 2023-12-19 16:58:10.590 ServerApp] Starting buffering for 2d7f75ed-ab9e-4be6-86d9-c7530ebc70b3:c94e6f3b-4fc5-4120-800f-054497b5d64f
+[I 2023-12-19 16:58:10.597 ServerApp] Starting buffering for 4c28f5b7-a938-4042-a1ac-e48e9621adc0:331f5863-a875-40dc-ade8-ab3fa6ac2c49
+[I 2023-12-19 16:58:12.922 ServerApp] Connecting to kernel ae441a96-b41c-4b84-b986-2fb9b4ce16a0.
+[I 2023-12-19 16:58:12.982 ServerApp] Connecting to kernel e28a7287-1634-4772-a2ab-41b9b8b0586e.
+[I 2023-12-19 16:58:13.056 ServerApp] Connecting to kernel c7f48269-55bb-460e-aed3-07f760da91d9.
+[I 2023-12-19 16:58:13.133 ServerApp] Connecting to kernel 8ec94e28-a3c6-4db5-a4f2-b4e2422355a7.
+[I 2023-12-19 16:58:13.174 ServerApp] Connecting to kernel 9ed44302-e477-4990-9733-823622ab7f59.
+[I 2023-12-19 16:58:13.240 ServerApp] Connecting to kernel bba3956d-c7e5-4745-aa49-931247ef1ced.
+[I 2023-12-19 16:58:13.244 ServerApp] Connecting to kernel 2d7f75ed-ab9e-4be6-86d9-c7530ebc70b3.
+[I 2023-12-19 16:58:23.891 ServerApp] Kernel restarted: bba3956d-c7e5-4745-aa49-931247ef1ced
+[I 2023-12-19 16:58:23.912 ServerApp] Starting buffering for bba3956d-c7e5-4745-aa49-931247ef1ced:de4eeeb6-9c9e-4c4d-9b12-3f45453f666f
+[I 2023-12-19 16:58:23.923 ServerApp] Connecting to kernel bba3956d-c7e5-4745-aa49-931247ef1ced.
+[I 2023-12-19 16:58:23.924 ServerApp] Restoring connection for bba3956d-c7e5-4745-aa49-931247ef1ced:de4eeeb6-9c9e-4c4d-9b12-3f45453f666f
+[I 2023-12-19 16:58:30.935 ServerApp] Saving file at /4. train_model-cnn.ipynb
+TBB Warning: The number of workers is currently limited to 2. The request for 31 workers is ignored. Further requests for more workers will be silently ignored until the limit changes.
+
+[I 2023-12-19 17:00:31.256 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 17:00:38.011 ServerApp] Kernel interrupted: c7f48269-55bb-460e-aed3-07f760da91d9
+[I 2023-12-19 17:00:38.514 ServerApp] Kernel interrupted: c7f48269-55bb-460e-aed3-07f760da91d9
+[I 2023-12-19 17:00:38.711 ServerApp] Kernel interrupted: c7f48269-55bb-460e-aed3-07f760da91d9
+[I 2023-12-19 17:01:41.635 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 17:02:12.137 ServerApp] Saving file at /visualize.ipynb
+[I 2023-12-19 17:03:42.276 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 17:05:42.431 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 17:06:02.759 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 17:06:48.980 ServerApp] Starting buffering for 2d7f75ed-ab9e-4be6-86d9-c7530ebc70b3:596ce14d-a17b-46fa-8c61-7405408a4a12
+[I 2023-12-19 17:07:05.344 ServerApp] Kernel interrupted: bba3956d-c7e5-4745-aa49-931247ef1ced
+[I 2023-12-19 17:08:02.891 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 17:08:25.295 ServerApp] Kernel interrupted: c7f48269-55bb-460e-aed3-07f760da91d9
+[I 2023-12-19 17:10:03.071 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 17:10:13.261 ServerApp] Saving file at /visualize.ipynb
+[I 2023-12-19 17:12:03.210 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 17:17:53.083 ServerApp] Kernel interrupted: bba3956d-c7e5-4745-aa49-931247ef1ced
+[I 2023-12-19 17:18:04.286 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 17:18:28.384 ServerApp] Kernel interrupted: bba3956d-c7e5-4745-aa49-931247ef1ced
+[I 2023-12-19 17:18:28.595 ServerApp] Kernel interrupted: bba3956d-c7e5-4745-aa49-931247ef1ced
+[I 2023-12-19 17:18:28.763 ServerApp] Kernel interrupted: bba3956d-c7e5-4745-aa49-931247ef1ced
+[I 2023-12-19 17:18:41.145 ServerApp] Kernel interrupted: c7f48269-55bb-460e-aed3-07f760da91d9
+[I 2023-12-19 17:20:05.960 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 17:20:14.319 ServerApp] Saving file at /visualize.ipynb
+[I 2023-12-19 17:22:06.293 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 17:32:10.376 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-19 18:09:59.568 ServerApp] Starting buffering for 9ed44302-e477-4990-9733-823622ab7f59:51896347-03df-41f6-b66c-639558bca18c
+[I 2023-12-19 18:09:59.570 ServerApp] Starting buffering for 8ec94e28-a3c6-4db5-a4f2-b4e2422355a7:cc5cb574-22bc-4117-b1c6-4dc13bfad7af
+[I 2023-12-19 18:09:59.594 ServerApp] Starting buffering for ae441a96-b41c-4b84-b986-2fb9b4ce16a0:52419789-0c22-412c-b29d-61fe7e74f4d7
+[I 2023-12-19 18:09:59.594 ServerApp] Starting buffering for e28a7287-1634-4772-a2ab-41b9b8b0586e:fa2cfa22-2d98-44aa-aaf8-c8093adbda95
+[I 2023-12-19 18:09:59.595 ServerApp] Starting buffering for c7f48269-55bb-460e-aed3-07f760da91d9:b8a8c086-be39-4f41-ba60-e07abebdfebf
+[I 2023-12-19 18:09:59.595 ServerApp] Starting buffering for bba3956d-c7e5-4745-aa49-931247ef1ced:de4eeeb6-9c9e-4c4d-9b12-3f45453f666f
+[I 2023-12-19 18:10:00.353 ServerApp] Connecting to kernel 9ed44302-e477-4990-9733-823622ab7f59.
+[I 2023-12-19 18:10:00.353 ServerApp] Restoring connection for 9ed44302-e477-4990-9733-823622ab7f59:51896347-03df-41f6-b66c-639558bca18c
+[I 2023-12-19 18:10:00.503 ServerApp] Connecting to kernel 8ec94e28-a3c6-4db5-a4f2-b4e2422355a7.
+[I 2023-12-19 18:10:00.503 ServerApp] Restoring connection for 8ec94e28-a3c6-4db5-a4f2-b4e2422355a7:cc5cb574-22bc-4117-b1c6-4dc13bfad7af
+[I 2023-12-19 18:10:00.530 ServerApp] Connecting to kernel c7f48269-55bb-460e-aed3-07f760da91d9.
+[I 2023-12-19 18:10:00.530 ServerApp] Restoring connection for c7f48269-55bb-460e-aed3-07f760da91d9:b8a8c086-be39-4f41-ba60-e07abebdfebf
+[I 2023-12-19 18:10:00.606 ServerApp] Connecting to kernel e28a7287-1634-4772-a2ab-41b9b8b0586e.
+[I 2023-12-19 18:10:00.606 ServerApp] Restoring connection for e28a7287-1634-4772-a2ab-41b9b8b0586e:fa2cfa22-2d98-44aa-aaf8-c8093adbda95
+[I 2023-12-19 18:10:00.631 ServerApp] Connecting to kernel ae441a96-b41c-4b84-b986-2fb9b4ce16a0.
+[I 2023-12-19 18:10:00.631 ServerApp] Restoring connection for ae441a96-b41c-4b84-b986-2fb9b4ce16a0:52419789-0c22-412c-b29d-61fe7e74f4d7
+[I 2023-12-19 18:10:00.653 ServerApp] Connecting to kernel bba3956d-c7e5-4745-aa49-931247ef1ced.
+[I 2023-12-19 18:10:00.653 ServerApp] Restoring connection for bba3956d-c7e5-4745-aa49-931247ef1ced:de4eeeb6-9c9e-4c4d-9b12-3f45453f666f
+[W 2023-12-19 18:11:30.355 ServerApp] WebSocket ping timeout after 90002 ms.
+[W 2023-12-19 18:11:30.504 ServerApp] WebSocket ping timeout after 90000 ms.
+[W 2023-12-19 18:11:30.532 ServerApp] WebSocket ping timeout after 90001 ms.
+[W 2023-12-19 18:11:30.606 ServerApp] WebSocket ping timeout after 90000 ms.
+[W 2023-12-19 18:11:30.632 ServerApp] WebSocket ping timeout after 90000 ms.
+[W 2023-12-19 18:11:30.654 ServerApp] WebSocket ping timeout after 90000 ms.
+[I 2023-12-19 18:11:35.358 ServerApp] Starting buffering for 9ed44302-e477-4990-9733-823622ab7f59:51896347-03df-41f6-b66c-639558bca18c
+[I 2023-12-19 18:11:35.506 ServerApp] Starting buffering for 8ec94e28-a3c6-4db5-a4f2-b4e2422355a7:cc5cb574-22bc-4117-b1c6-4dc13bfad7af
+[I 2023-12-19 18:11:35.533 ServerApp] Starting buffering for c7f48269-55bb-460e-aed3-07f760da91d9:b8a8c086-be39-4f41-ba60-e07abebdfebf
+[I 2023-12-19 18:11:35.607 ServerApp] Starting buffering for e28a7287-1634-4772-a2ab-41b9b8b0586e:fa2cfa22-2d98-44aa-aaf8-c8093adbda95
+[I 2023-12-19 18:11:35.633 ServerApp] Starting buffering for ae441a96-b41c-4b84-b986-2fb9b4ce16a0:52419789-0c22-412c-b29d-61fe7e74f4d7
+[I 2023-12-19 18:11:35.654 ServerApp] Starting buffering for bba3956d-c7e5-4745-aa49-931247ef1ced:de4eeeb6-9c9e-4c4d-9b12-3f45453f666f
+[I 2023-12-20 10:11:42.940 ServerApp] 302 GET / (@127.0.0.1) 0.70ms
+[W 2023-12-20 10:11:46.805 LabApp] Could not determine jupyterlab build status without nodejs
+[I 2023-12-20 10:11:46.942 ServerApp] Connecting to kernel 9ed44302-e477-4990-9733-823622ab7f59.
+[I 2023-12-20 10:11:47.018 ServerApp] Connecting to kernel 8ec94e28-a3c6-4db5-a4f2-b4e2422355a7.
+[I 2023-12-20 10:11:47.048 ServerApp] Connecting to kernel e28a7287-1634-4772-a2ab-41b9b8b0586e.
+[I 2023-12-20 10:11:47.117 ServerApp] Connecting to kernel ae441a96-b41c-4b84-b986-2fb9b4ce16a0.
+[I 2023-12-20 10:11:47.147 ServerApp] Connecting to kernel bba3956d-c7e5-4745-aa49-931247ef1ced.
+[I 2023-12-20 10:11:47.208 ServerApp] Starting buffering for 9ed44302-e477-4990-9733-823622ab7f59:fcb74806-4014-4e3b-81fc-c65cc37d5362
+[I 2023-12-20 10:11:47.209 ServerApp] Starting buffering for 8ec94e28-a3c6-4db5-a4f2-b4e2422355a7:d89e89b6-af92-4535-a99a-fb0bd0f297af
+[I 2023-12-20 10:11:47.210 ServerApp] Starting buffering for e28a7287-1634-4772-a2ab-41b9b8b0586e:2c123ecf-c2e1-4fa0-99df-080f8e60dc20
+[I 2023-12-20 10:11:47.218 ServerApp] Connecting to kernel 2d7f75ed-ab9e-4be6-86d9-c7530ebc70b3.
+[I 2023-12-20 10:11:47.251 ServerApp] Connecting to kernel c7f48269-55bb-460e-aed3-07f760da91d9.
+[I 2023-12-20 10:11:47.276 ServerApp] Starting buffering for ae441a96-b41c-4b84-b986-2fb9b4ce16a0:d564582a-f76f-4867-b799-760f6f4eee0c
+[I 2023-12-20 10:11:47.304 ServerApp] Starting buffering for bba3956d-c7e5-4745-aa49-931247ef1ced:1c22fc90-ce3b-4eeb-82ec-ca7cb1d8f9f1
+[I 2023-12-20 10:11:47.322 ServerApp] Connecting to kernel 4c28f5b7-a938-4042-a1ac-e48e9621adc0.
+[I 2023-12-20 10:11:47.349 ServerApp] Starting buffering for 2d7f75ed-ab9e-4be6-86d9-c7530ebc70b3:9b2b6084-2a56-4a8c-96f0-e90cb2d99040
+[I 2023-12-20 10:11:47.371 ServerApp] Starting buffering for c7f48269-55bb-460e-aed3-07f760da91d9:00dbb54c-7508-4466-9bdf-eb7c1a949280
+[I 2023-12-20 10:11:47.875 ServerApp] Starting buffering for 4c28f5b7-a938-4042-a1ac-e48e9621adc0:c86534bd-2fca-441a-a75e-ea83311098ff
+[I 2023-12-20 10:11:49.110 ServerApp] Connecting to kernel ae441a96-b41c-4b84-b986-2fb9b4ce16a0.
+[I 2023-12-20 10:11:49.149 ServerApp] Connecting to kernel 8ec94e28-a3c6-4db5-a4f2-b4e2422355a7.
+[I 2023-12-20 10:11:49.223 ServerApp] Connecting to kernel 9ed44302-e477-4990-9733-823622ab7f59.
+[I 2023-12-20 10:11:49.262 ServerApp] Connecting to kernel e28a7287-1634-4772-a2ab-41b9b8b0586e.
+[I 2023-12-20 10:11:49.331 ServerApp] Connecting to kernel bba3956d-c7e5-4745-aa49-931247ef1ced.
+[I 2023-12-20 10:11:49.363 ServerApp] Connecting to kernel c7f48269-55bb-460e-aed3-07f760da91d9.
+[I 2023-12-20 10:15:38.674 ServerApp] Kernel started: efa95761-5fe4-4252-ab72-13f557384027
+[I 2023-12-20 10:15:42.286 ServerApp] Connecting to kernel efa95761-5fe4-4252-ab72-13f557384027.
+[I 2023-12-20 10:16:28.695 ServerApp] Copying 4. train_model-cnn.ipynb to 
+[I 2023-12-20 10:16:45.790 ServerApp] Kernel started: 7aed8ac0-1c57-42f3-a2fd-f157c14c2c73
+[I 2023-12-20 10:16:47.610 ServerApp] Connecting to kernel 7aed8ac0-1c57-42f3-a2fd-f157c14c2c73.
+TBB Warning: The number of workers is currently limited to 2. The request for 31 workers is ignored. Further requests for more workers will be silently ignored until the limit changes.
+
+[I 2023-12-20 10:17:49.448 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-20 10:18:46.390 ServerApp] Saving file at /4. train_model-lasso.ipynb
+[I 2023-12-20 10:20:47.363 ServerApp] Saving file at /4. train_model-lasso.ipynb
+[I 2023-12-20 10:24:48.405 ServerApp] Saving file at /4. train_model-lasso.ipynb
+[I 2023-12-20 10:26:49.368 ServerApp] Saving file at /4. train_model-lasso.ipynb
+[I 2023-12-20 10:28:49.525 ServerApp] Saving file at /4. train_model-lasso.ipynb
+[I 2023-12-20 10:30:50.336 ServerApp] Saving file at /4. train_model-lasso.ipynb
+[I 2023-12-20 10:32:50.481 ServerApp] Saving file at /4. train_model-lasso.ipynb
+[I 2023-12-20 10:34:51.369 ServerApp] Saving file at /4. train_model-lasso.ipynb
+[I 2023-12-20 10:36:52.432 ServerApp] Saving file at /4. train_model-lasso.ipynb
+[I 2023-12-20 10:42:54.392 ServerApp] Saving file at /4. train_model-lasso.ipynb
+[I 2023-12-20 10:43:46.385 ServerApp] Saving file at /4. train_model-lgbm.ipynb
+[I 2023-12-20 10:47:46.932 ServerApp] Saving file at /4. train_model-lgbm.ipynb
+[I 2023-12-20 10:51:47.178 ServerApp] Saving file at /4. train_model-lgbm.ipynb
+[I 2023-12-20 10:53:47.402 ServerApp] Saving file at /4. train_model-lgbm.ipynb
+[I 2023-12-20 10:55:47.632 ServerApp] Saving file at /4. train_model-lgbm.ipynb
+[I 2023-12-20 10:55:54.048 ServerApp] Saving file at /4. train_model-lasso.ipynb
+[I 2023-12-20 10:57:48.643 ServerApp] Saving file at /4. train_model-lgbm.ipynb
+[I 2023-12-20 11:01:50.369 ServerApp] Saving file at /4. train_model-lgbm.ipynb
+[I 2023-12-20 11:07:52.366 ServerApp] Saving file at /4. train_model-lgbm.ipynb
+[I 2023-12-20 11:09:52.581 ServerApp] Saving file at /4. train_model-lgbm.ipynb
+[I 2023-12-20 11:11:52.808 ServerApp] Saving file at /4. train_model-lgbm.ipynb
+[I 2023-12-20 11:14:48.018 ServerApp] Creating new file in 
+[I 2023-12-20 11:15:54.325 ServerApp] Saving file at /4. train_model-lgbm.ipynb
+[I 2023-12-20 11:17:54.446 ServerApp] Saving file at /4. train_model-lgbm.ipynb
+[I 2023-12-20 11:19:55.400 ServerApp] Saving file at /4. train_model-lgbm.ipynb
+[I 2023-12-20 11:23:56.135 ServerApp] Saving file at /4. train_model-lgbm.ipynb
+[I 2023-12-20 11:29:58.374 ServerApp] Saving file at /4. train_model-lgbm.ipynb
+[I 2023-12-20 11:33:58.896 ServerApp] Saving file at /4. train_model-lgbm.ipynb
+[I 2023-12-20 11:35:59.347 ServerApp] Saving file at /4. train_model-lgbm.ipynb
+[I 2023-12-20 11:37:59.589 ServerApp] Saving file at /4. train_model-lgbm.ipynb
+[I 2023-12-20 11:40:00.390 ServerApp] Saving file at /4. train_model-lgbm.ipynb
+[I 2023-12-20 11:42:00.522 ServerApp] Saving file at /4. train_model-lgbm.ipynb
+[I 2023-12-20 11:44:00.709 ServerApp] Saving file at /4. train_model-lgbm.ipynb
+[I 2023-12-20 11:44:25.388 ServerApp] Saving file at /4. train_model-lasso.ipynb
+[I 2023-12-20 11:46:25.496 ServerApp] Saving file at /4. train_model-lasso.ipynb
+[I 2023-12-20 11:48:26.349 ServerApp] Saving file at /4. train_model-lasso.ipynb
+[I 2023-12-20 11:50:26.558 ServerApp] Saving file at /4. train_model-lasso.ipynb
+[I 2023-12-20 11:52:26.711 ServerApp] Saving file at /4. train_model-lasso.ipynb
+[I 2023-12-20 11:56:02.375 ServerApp] Saving file at /4. train_model-lgbm.ipynb
+[I 2023-12-20 11:58:03.334 ServerApp] Saving file at /4. train_model-lgbm.ipynb
+[I 2023-12-20 12:00:28.338 ServerApp] Saving file at /4. train_model-lasso.ipynb
+[I 2023-12-20 12:02:28.504 ServerApp] Saving file at /4. train_model-lasso.ipynb
+[I 2023-12-20 12:04:29.369 ServerApp] Saving file at /4. train_model-lasso.ipynb
+[I 2023-12-20 12:06:30.339 ServerApp] Saving file at /4. train_model-lasso.ipynb
+[I 2023-12-20 12:31:46.379 ServerApp] Saving file at /4. train_model-lasso.ipynb
+[I 2023-12-20 12:33:46.514 ServerApp] Saving file at /4. train_model-lasso.ipynb
+[I 2023-12-20 12:35:46.652 ServerApp] Saving file at /4. train_model-lasso.ipynb
+[I 2023-12-20 12:37:47.377 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-20 12:39:47.498 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-20 12:41:47.836 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-20 12:43:47.952 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-20 12:45:48.079 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-20 12:47:47.433 ServerApp] Saving file at /4. train_model-lasso.ipynb
+[I 2023-12-20 12:47:48.250 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-20 12:49:05.868 ServerApp] Saving file at /4. train_model-lasso.ipynb
+[I 2023-12-20 12:49:48.386 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-20 12:51:05.994 ServerApp] Saving file at /4. train_model-lasso.ipynb
+[I 2023-12-20 12:53:06.367 ServerApp] Saving file at /4. train_model-lasso.ipynb
+[I 2023-12-20 12:55:06.516 ServerApp] Saving file at /4. train_model-lasso.ipynb
+[I 2023-12-20 12:57:00.264 ServerApp] Saving file at /4. train_model-lgbm.ipynb
+[I 2023-12-20 12:57:06.849 ServerApp] Saving file at /4. train_model-lasso.ipynb
+[I 2023-12-20 12:59:01.627 ServerApp] Saving file at /4. train_model-lgbm.ipynb
+[I 2023-12-20 12:59:07.109 ServerApp] Saving file at /4. train_model-lasso.ipynb
+[I 2023-12-20 13:00:22.306 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-20 13:01:02.233 ServerApp] Saving file at /4. train_model-lgbm.ipynb
+[I 2023-12-20 13:03:02.846 ServerApp] Saving file at /4. train_model-lgbm.ipynb
+[I 2023-12-20 13:07:58.942 ServerApp] Saving file at /lasso.py
+[I 2023-12-20 13:08:32.518 ServerApp] Saving file at /lasso.py
+[I 2023-12-20 13:08:37.598 ServerApp] Saving file at /cnn.py
+[I 2023-12-20 13:09:08.399 ServerApp] Saving file at /cnn.py
+[I 2023-12-20 13:09:11.408 ServerApp] Saving file at /lasso.py
+[I 2023-12-20 13:09:11.640 ServerApp] Saving file at /lasso.py
+[I 2023-12-20 13:09:12.083 ServerApp] Saving file at /lasso.py
+[I 2023-12-20 13:09:21.361 ServerApp] Saving file at /lgbm.py
+[I 2023-12-20 13:09:23.058 ServerApp] Saving file at /lgbm.py
+[I 2023-12-20 13:09:43.387 ServerApp] Saving file at /lgbm.py
+[I 2023-12-20 13:16:50.987 ServerApp] Saving file at /lasso.py
+[I 2023-12-20 13:17:13.918 ServerApp] Saving file at /lasso.py
+[I 2023-12-20 13:17:40.920 ServerApp] Saving file at /cnn.py
+[I 2023-12-20 13:17:41.866 ServerApp] Saving file at /cnn.py
+[I 2023-12-20 13:17:55.652 ServerApp] Saving file at /lasso.py
+[I 2023-12-20 13:18:31.909 ServerApp] Saving file at /lasso.py
+[I 2023-12-20 13:19:09.611 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-20 13:19:15.154 ServerApp] Saving file at /cnn.py
+[I 2023-12-20 13:19:15.352 ServerApp] Saving file at /cnn.py
+[I 2023-12-20 13:19:21.614 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-20 13:19:21.881 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-20 13:21:40.413 ServerApp] Saving file at /cnn.py
+[I 2023-12-20 13:21:53.477 ServerApp] Saving file at /lasso.py
+[I 2023-12-20 13:22:02.805 ServerApp] Saving file at /lgbm.py
+[I 2023-12-20 13:22:55.735 ServerApp] Saving file at /lasso.py
+[I 2023-12-20 13:23:23.092 ServerApp] Saving file at /lgbm.py
+[I 2023-12-20 13:23:32.332 ServerApp] Saving file at /cnn.py
+[I 2023-12-20 13:27:56.887 ServerApp] Saving file at /lasso.py
+[I 2023-12-20 13:28:20.595 ServerApp] Saving file at /lgbm.py
+[I 2023-12-20 13:28:20.874 ServerApp] Saving file at /lgbm.py
+[I 2023-12-20 13:28:21.082 ServerApp] Saving file at /lgbm.py
+[I 2023-12-20 13:28:35.522 ServerApp] Saving file at /cnn.py
+[I 2023-12-20 13:28:35.733 ServerApp] Saving file at /cnn.py
+[I 2023-12-20 13:28:46.256 ServerApp] Saving file at /lasso.py
+[I 2023-12-20 13:28:52.420 ServerApp] Saving file at /lasso.py
+[I 2023-12-20 13:28:52.674 ServerApp] Saving file at /lasso.py
+[I 2023-12-20 13:28:54.175 ServerApp] Saving file at /lasso.py
+[I 2023-12-20 13:28:54.406 ServerApp] Saving file at /lasso.py
+[I 2023-12-20 13:38:25.853 ServerApp] Saving file at /cnn.py
+[I 2023-12-20 13:39:07.669 ServerApp] Saving file at /lasso.py
+[I 2023-12-20 13:39:07.858 ServerApp] Saving file at /lasso.py
+[I 2023-12-20 13:41:03.357 ServerApp] Saving file at /lasso.py
+[I 2023-12-20 14:12:22.387 ServerApp] Saving file at /lgbm.py
+[I 2023-12-20 14:14:06.423 ServerApp] Saving file at /lgbm.py
+[I 2023-12-20 14:16:06.495 ServerApp] Saving file at /lgbm.py
+[I 2023-12-20 14:16:07.639 ServerApp] Saving file at /lgbm.py
+[I 2023-12-20 14:23:59.596 ServerApp] Saving file at /lgbm.py
+[I 2023-12-20 14:31:00.647 ServerApp] Saving file at /4. train_model-lgbm.ipynb
+[I 2023-12-20 14:31:53.610 ServerApp] Saving file at /4. train_model-lgbm.ipynb
+[I 2023-12-20 14:33:53.727 ServerApp] Saving file at /4. train_model-lgbm.ipynb
+[I 2023-12-20 14:37:54.358 ServerApp] Saving file at /4. train_model-lgbm.ipynb
+[I 2023-12-20 14:39:33.388 ServerApp] Saving file at /lgbm.py
+[I 2023-12-20 14:39:33.783 ServerApp] Saving file at /lgbm.py
+[I 2023-12-20 14:39:34.038 ServerApp] Saving file at /lgbm.py
+[I 2023-12-20 14:39:34.148 ServerApp] Saving file at /lgbm.py
+[I 2023-12-20 14:39:34.331 ServerApp] Saving file at /lgbm.py
+[I 2023-12-20 14:39:54.583 ServerApp] Saving file at /4. train_model-lgbm.ipynb
+[I 2023-12-20 14:49:14.219 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-20 15:05:45.455 ServerApp] Saving file at /4. train_model-lasso.ipynb
+[I 2023-12-20 15:07:02.820 ServerApp] Saving file at /lasso.py
+[I 2023-12-20 15:07:45.578 ServerApp] Saving file at /4. train_model-lasso.ipynb
+[I 2023-12-20 15:07:58.686 ServerApp] Saving file at /cnn.py
+[I 2023-12-20 15:43:58.404 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-20 15:45:58.635 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-20 15:47:58.762 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-20 15:49:58.966 ServerApp] Saving file at /4. train_model-cnn.ipynb
+[I 2023-12-20 15:51:11.364 ServerApp] Starting buffering for 7aed8ac0-1c57-42f3-a2fd-f157c14c2c73:920c9b87-84ce-4aee-8f35-a76e339308c7
+[I 2023-12-20 15:51:36.855 ServerApp] Saving file at /cnn.py
+[I 2023-12-20 15:52:18.278 ServerApp] Saving file at /lasso.py
+[I 2023-12-20 15:52:20.062 ServerApp] Saving file at /lasso.py
+[I 2023-12-20 15:52:20.275 ServerApp] Saving file at /lasso.py
+[I 2023-12-20 15:52:20.405 ServerApp] Saving file at /lasso.py
+[I 2023-12-20 15:52:20.623 ServerApp] Saving file at /lasso.py
+[I 2023-12-20 15:52:20.710 ServerApp] Saving file at /lasso.py
+[I 2023-12-20 15:52:20.893 ServerApp] Saving file at /lasso.py
+[I 2023-12-20 15:52:22.670 ServerApp] Saving file at /cnn.py
+[I 2023-12-20 15:52:22.882 ServerApp] Saving file at /cnn.py
+[I 2023-12-20 15:52:23.084 ServerApp] Saving file at /cnn.py
+[I 2023-12-20 16:06:01.602 ServerApp] Saving file at /lasso.py
+[I 2023-12-20 16:06:03.541 ServerApp] Saving file at /lasso.py
+[I 2023-12-20 16:06:03.750 ServerApp] Saving file at /lasso.py
+[I 2023-12-20 16:06:03.877 ServerApp] Saving file at /lasso.py
+[I 2023-12-20 16:21:40.042 ServerApp] Copying 4. train_model-cnn.ipynb to 
+[I 2023-12-20 16:21:58.797 ServerApp] Kernel started: 309bca00-9926-4b5c-8ed6-3a35d0bd9701
+[I 2023-12-20 16:22:02.403 ServerApp] Connecting to kernel 309bca00-9926-4b5c-8ed6-3a35d0bd9701.
+[I 2023-12-20 16:22:29.144 ServerApp] Saving file at /4. train_model-lstm.ipynb
+[I 2023-12-20 16:22:29.666 ServerApp] Saving file at /4. train_model-lstm.ipynb
+[I 2023-12-20 16:22:52.330 ServerApp] Saving file at /4. train_model-lstm.ipynb
+[I 2023-12-20 16:22:52.618 ServerApp] Saving file at /4. train_model-lstm.ipynb
+TBB Warning: The number of workers is currently limited to 2. The request for 31 workers is ignored. Further requests for more workers will be silently ignored until the limit changes.
+
+[I 2023-12-20 16:24:52.834 ServerApp] Saving file at /4. train_model-lstm.ipynb
+[I 2023-12-20 16:26:18.716 ServerApp] Saving file at /4. train_model-lstm.ipynb
+[I 2023-12-20 16:28:18.899 ServerApp] Saving file at /4. train_model-lstm.ipynb
+[I 2023-12-20 16:29:47.385 ServerApp] Saving file at /4. train_model-lstm.ipynb
+[I 2023-12-20 16:31:47.533 ServerApp] Saving file at /4. train_model-lstm.ipynb
+[I 2023-12-20 16:33:19.353 ServerApp] Kernel interrupted: 309bca00-9926-4b5c-8ed6-3a35d0bd9701
+[I 2023-12-20 16:33:47.661 ServerApp] Saving file at /4. train_model-lstm.ipynb
+[I 2023-12-20 16:35:47.829 ServerApp] Saving file at /4. train_model-lstm.ipynb
+[I 2023-12-20 16:39:48.499 ServerApp] Saving file at /4. train_model-lstm.ipynb
+[I 2023-12-20 16:43:06.448 ServerApp] Saving file at /lstm.py
+[I 2023-12-20 16:43:07.469 ServerApp] Saving file at /lstm.py
+[I 2023-12-20 16:43:07.608 ServerApp] Saving file at /lstm.py
+[I 2023-12-20 16:43:07.782 ServerApp] Saving file at /lstm.py
+[I 2023-12-20 16:43:07.992 ServerApp] Saving file at /lstm.py
+[I 2023-12-20 16:43:08.187 ServerApp] Saving file at /lstm.py
+[I 2023-12-20 16:43:08.604 ServerApp] Saving file at /lstm.py
+[I 2023-12-20 16:43:08.740 ServerApp] Saving file at /lstm.py
+[I 2023-12-20 16:43:08.921 ServerApp] Saving file at /lstm.py
+[I 2023-12-20 16:43:09.059 ServerApp] Saving file at /lstm.py
+[I 2023-12-20 16:43:09.182 ServerApp] Saving file at /lstm.py
+[I 2023-12-20 16:43:09.355 ServerApp] Saving file at /lstm.py
+[I 2023-12-20 16:43:44.856 ServerApp] Saving file at /lasso.py
+[I 2023-12-20 16:44:51.639 ServerApp] Saving file at /lasso.py
+[I 2023-12-20 16:44:51.838 ServerApp] Saving file at /lasso.py
+[I 2023-12-20 16:45:20.059 ServerApp] Saving file at /lgbm.py
+[I 2023-12-20 16:45:20.310 ServerApp] Saving file at /lgbm.py
+[I 2023-12-20 16:45:20.626 ServerApp] Saving file at /lgbm.py
+[I 2023-12-20 16:45:20.843 ServerApp] Saving file at /lgbm.py
+[I 2023-12-20 16:45:21.100 ServerApp] Saving file at /lgbm.py
+[I 2023-12-20 16:46:02.510 ServerApp] Saving file at /cnn.py
+[I 2023-12-20 16:46:05.552 ServerApp] Saving file at /cnn.py
+[I 2023-12-20 16:47:49.483 ServerApp] Saving file at /4. train_model-lstm.ipynb
+[I 2023-12-20 16:49:49.628 ServerApp] Saving file at /4. train_model-lstm.ipynb
