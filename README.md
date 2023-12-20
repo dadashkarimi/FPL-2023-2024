@@ -25,7 +25,7 @@ Requirements:
 Python 3.x
 Libraries: Torch, NumPy, Pandas, Scikit-learn
 Instructions:
-Clone this repository: git clone [https://github.com/yourusername/your-repo.git](https://github.com/dadashkarimi/FPL-2023-2024.git)
+Clone this repository: git clone [https://github.com/dadashkarimi/FPL-2023-2024.git](https://github.com/dadashkarimi/FPL-2023-2024.git)
 Install required dependencies: pip install -r requirements.txt
 Run the notebooks or scripts in the src directory to train models and predict player rankings.
 Explore model comparisons and transfer recommendations in the respective notebooks or files.
