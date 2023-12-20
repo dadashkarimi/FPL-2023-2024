@@ -35,3 +35,6 @@ Explore model comparisons and transfer recommendations in the respective noteboo
 ## Directory Structure
 datasets/: Contains datasets of players, teams, and their performances in previous seasons
 predicted_dataset/: Contains predicted datasets for all methods
+
+# Acknowledgements
+We truely appreciate the code and data that are shared by [https://github.com/saheedniyi02/fpl-ai.git](https://github.com/saheedniyi02/fpl-ai.git) to download and curate player stats from FPL. 
