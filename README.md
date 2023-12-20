@@ -13,12 +13,7 @@ Models:
 4. Long Short-Term Memory (LSTM) Network: Employed an LSTM to predict player rankings, capturing sequential dependencies in player performance.
 
 ## Results
-Performance Comparison:
-Conducted various simulations and evaluations over past game weeks.
-Demonstrated that CNN and LSTM models consistently outperform decision tree and Lasso regression methods.
-Evaluated the models' performance metrics such as Mean Squared Error (MSE), Accuracy, and R-Squared across different experiments.
-Recommendations
-Based on the models' predictions and historical analysis, we provide a list of recommended transfer candidates for the upcoming game week. These suggestions are derived from the analysis of player rankings and performance predictions.
+We ran multiple rounds of simulations and tests on previous game weeks. The results? Well, the CNN clearly stole the show! 
 
 |      | LGBM      | Lasso     | CNN       |
 |------|-----------|-----------|-----------|
