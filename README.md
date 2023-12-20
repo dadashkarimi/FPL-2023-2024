@@ -15,12 +15,12 @@ Models:
 ## Results
 We ran multiple rounds of simulations and tests on previous game weeks. The results? Well, the CNN clearly stole the show! 
 
-|      | LGBM      | Lasso     | CNN       |
-|------|-----------|-----------|-----------|
-| 15   | 4.47      | 14.38     | 2.12      |
-| 16   | 3.53      | 12.69     | 1.95      |
-| 17   | 4.42      | 6.58      | 2.12      |
-| 18   | 2.63      | 7.04      | 1.49      |
+|      | LGBM  | Lasso | CNN  | LSTM |
+|------|-------|-------|------|------|
+| 15   | 4.47  | 14.38 | 2.12 | -    |
+| 16   | 3.53  | 12.69 | 1.95 | 1.94 |
+| 17   | 4.42  | 6.58  | 2.12 | 2.08 |
+| 18   | 2.63  | 7.04  | 1.49 | -    |
 
 ## Usage
 Requirements:
