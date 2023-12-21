@@ -1,22 +1,77 @@
 index,name,team,points,value
-Aaron Ramsdale2023-09-30T14:00:00Z,Aaron Ramsdale,Arsenal,2.8385922611466268,49
-Alisson Ramses Becker2023-09-30T16:30:00Z,Alisson Ramses Becker,Liverpool,3.067803921942726,55
-Alphonse Areola2023-09-30T14:00:00Z,Alphonse Areola,West Ham,3.750878277569021,42
-André Onana2023-09-30T14:00:00Z,André Onana,Man Utd,3.637382455501419,49
-Bart Verbruggen2023-09-30T11:30:00Z,Bart Verbruggen,Brighton,2.911803822861218,44
-Bernd Leno2023-10-02T19:00:00Z,Bernd Leno,Fulham,3.6127052645872237,46
-David Raya Martin2023-09-30T14:00:00Z,David Raya Martin,Arsenal,3.573795080334112,48
-Ederson Santana de Moraes2023-09-30T14:00:00Z,Ederson Santana de Moraes,Man City,3.9663552123030517,56
-Emiliano Martínez Romero2023-09-30T11:30:00Z,Emiliano Martínez Romero,Aston Villa,3.2356632675358394,49
-Guglielmo Vicario2023-09-30T16:30:00Z,Guglielmo Vicario,Spurs,3.4394722880812756,51
-James Trafford2023-09-30T14:00:00Z,James Trafford,Burnley,1.3320209049643321,45
-Jordan Pickford2023-09-30T14:00:00Z,Jordan Pickford,Everton,4.224045998882999,44
-José Malheiro de Sá2023-09-30T14:00:00Z,José Malheiro de Sá,Wolves,2.5441047164189063,50
-Mark Flekken2023-10-01T13:00:00Z,Mark Flekken,Brentford,2.8747205257110457,45
-Matt Turner2023-10-01T13:00:00Z,Matt Turner,Nott'm Forest,3.2997634600786334,40
-Nick Pope2023-09-30T14:00:00Z,Nick Pope,Newcastle,3.485766656957384,55
-Norberto Murara Neto2023-09-30T14:00:00Z,Norberto Murara Neto,Bournemouth,2.990432014749908,45
-Robert Sánchez2023-10-02T19:00:00Z,Robert Sánchez,Chelsea,2.8916719368727395,46
-Sam Johnstone2023-09-30T14:00:00Z,Sam Johnstone,Crystal Palace,2.340418434222764,45
-Thomas Kaminski2023-09-30T14:00:00Z,Thomas Kaminski,Luton,2.1733117137340106,45
-Wes Foderingham2023-09-30T14:00:00Z,Wes Foderingham,Sheffield Utd,2.553785447067318,45
+André Onana2023-09-30T14:00:00Z,André Onana,Man Utd,3.988514514463394,49
+Bernd Leno2023-10-02T19:00:00Z,Bernd Leno,Fulham,3.9068495552677147,47
+Nick Pope2023-09-30T14:00:00Z,Nick Pope,Newcastle,3.851666577219455,55
+Jordan Pickford2023-09-30T14:00:00Z,Jordan Pickford,Everton,3.647783841964953,44
+Matt Turner2023-10-01T13:00:00Z,Matt Turner,Nott'm Forest,3.54944010219215,40
+Alisson Ramses Becker2023-09-30T16:30:00Z,Alisson Ramses Becker,Liverpool,3.518841950890672,55
+Alphonse Areola2023-09-30T14:00:00Z,Alphonse Areola,West Ham,3.472500124725201,42
+Robert Sánchez2023-10-02T19:00:00Z,Robert Sánchez,Chelsea,3.4449275967509134,46
+Ederson Santana de Moraes2023-09-30T14:00:00Z,Ederson Santana de Moraes,Man City,3.345213334180937,56
+David Raya Martin2023-09-30T14:00:00Z,David Raya Martin,Arsenal,3.2525848875702508,48
+Guglielmo Vicario2023-09-30T16:30:00Z,Guglielmo Vicario,Spurs,3.1591460376912117,51
+Thomas Kaminski2023-10-03T18:30:00Z,Thomas Kaminski,Luton,3.0984502284444497,45
+Wes Foderingham2023-09-30T14:00:00Z,Wes Foderingham,Sheffield Utd,2.998243324368961,45
+Mark Flekken2023-10-01T13:00:00Z,Mark Flekken,Brentford,2.8416495696980437,45
+Norberto Murara Neto2023-09-30T14:00:00Z,Norberto Murara Neto,Bournemouth,2.813662342658886,45
+Emiliano Martínez Romero2023-09-30T11:30:00Z,Emiliano Martínez Romero,Aston Villa,2.7913843895293238,49
+José Malheiro de Sá2023-09-30T14:00:00Z,José Malheiro de Sá,Wolves,2.532491943363476,50
+Sam Johnstone2023-09-30T14:00:00Z,Sam Johnstone,Crystal Palace,2.2346494109452353,45
+Aaron Ramsdale2023-09-30T14:00:00Z,Aaron Ramsdale,Arsenal,1.9170834857237415,49
+Bart Verbruggen2023-09-30T11:30:00Z,Bart Verbruggen,Brighton,1.9045887335377594,44
+James Trafford2023-10-03T18:30:00Z,James Trafford,Burnley,1.6678818024069046,45
+Jason Steele2023-09-30T11:30:00Z,Jason Steele,Brighton,1.2547332246463043,44
+Kepa Arrizabalaga2023-10-02T19:00:00Z,Kepa Arrizabalaga,Chelsea,0.46010046560280576,50
+Lukasz Fabianski2023-09-30T14:00:00Z,Lukasz Fabianski,West Ham,0.4196884231624154,43
+Hugo Lloris2023-09-30T16:30:00Z,Hugo Lloris,Spurs,0.2163368398521218,48
+Vicente Guaita2023-09-30T14:00:00Z,Vicente Guaita,Crystal Palace,0.1738755130931482,44
+Dean Henderson2023-09-30T14:00:00Z,Dean Henderson,Crystal Palace,0.15035191994145697,45
+Ethan Horvath2023-10-01T13:00:00Z,Ethan Horvath,Nott'm Forest,0.13054837837778627,44
+Stefan Ortega Moreno2023-09-30T14:00:00Z,Stefan Ortega Moreno,Man City,0.1090789590340814,39
+João Neves Virgínia2023-09-30T14:00:00Z,João Neves Virgínia,Everton,0.09351674520859396,39
+Ionuț Radu2023-09-30T14:00:00Z,Ionuț Radu,Bournemouth,0.08954511055453376,44
+James Shea2023-10-03T18:30:00Z,James Shea,Luton,0.0835547947026454,44
+Fraser Forster2023-09-30T16:30:00Z,Fraser Forster,Spurs,0.0814505041460526,40
+Scott Carson2023-09-30T14:00:00Z,Scott Carson,Man City,0.07882667701462127,39
+Zack Steffen2023-09-30T14:00:00Z,Zack Steffen,Man City,0.07875199665650819,39
+Arijanet Muric2023-10-03T18:30:00Z,Arijanet Muric,Burnley,0.07607750879180977,44
+Mark Travers2023-09-30T14:00:00Z,Mark Travers,Bournemouth,0.07505059919214384,40
+Andy Lonergan2023-09-30T14:00:00Z,Andy Lonergan,Everton,0.06895468219753428,40
+Martin Dubravka2023-09-30T14:00:00Z,Martin Dubravka,Newcastle,0.06803350551258312,39
+Karl Darlow2023-09-30T14:00:00Z,Karl Darlow,Newcastle,0.06795975439726777,40
+Loris Karius2023-09-30T14:00:00Z,Loris Karius,Newcastle,0.06795975439726777,40
+Joseph Anang2023-09-30T14:00:00Z,Joseph Anang,West Ham,0.06152796897830004,40
+Mark Gillespie2023-09-30T14:00:00Z,Mark Gillespie,Newcastle,0.061134454727142955,39
+Wayne Hennessey2023-10-01T13:00:00Z,Wayne Hennessey,Nott'm Forest,0.05995762780808679,40
+George Shelvey2023-10-01T13:00:00Z,George Shelvey,Nott'm Forest,0.055268207034536075,40
+Jack Walton2023-10-03T18:30:00Z,Jack Walton,Luton,0.0510829867525624,40
+Matt Macey2023-10-03T18:30:00Z,Matt Macey,Luton,0.0510829867525624,40
+Marek Rodák2023-10-02T19:00:00Z,Marek Rodák,Fulham,0.0510659162532367,40
+Tom Heaton2023-09-30T14:00:00Z,Tom Heaton,Man Utd,0.04855588358170175,40
+Lucas Bergström2023-10-02T19:00:00Z,Lucas Bergström,Chelsea,0.04714895058228835,40
+Gabriel Słonina2023-10-02T19:00:00Z,Gabriel Słonina,Chelsea,0.04714895058228835,40
+Adam Davies2023-09-30T14:00:00Z,Adam Davies,Sheffield Utd,0.044520774927480744,40
+Jordan Amissah2023-09-30T14:00:00Z,Jordan Amissah,Sheffield Utd,0.044520774927480744,40
+Rúnar Alex Rúnarsson2023-09-30T14:00:00Z,Rúnar Alex Rúnarsson,Arsenal,0.04388758287251695,40
+Marcus Bettinelli2023-10-02T19:00:00Z,Marcus Bettinelli,Chelsea,0.04305082835348176,40
+Matthew Cox2023-10-01T13:00:00Z,Matthew Cox,Brentford,0.04150141504589763,40
+Ellery Balcombe2023-10-01T13:00:00Z,Ellery Balcombe,Brentford,0.041494105077581216,40
+Karl Hein2023-09-30T14:00:00Z,Karl Hein,Arsenal,0.03775105163666229,40
+Robin Olsen2023-09-30T11:30:00Z,Robin Olsen,Aston Villa,0.03733454809685254,40
+Thomas Strakosha2023-10-01T13:00:00Z,Thomas Strakosha,Brentford,0.03706514887543864,39
+Caoimhin Kelleher2023-09-30T16:30:00Z,Caoimhin Kelleher,Liverpool,0.035874018589975964,40
+Adrián San Miguel del Castillo2023-09-30T16:30:00Z,Adrián San Miguel del Castillo,Liverpool,0.03541785838691497,40
+Alfie Whiteman2023-09-30T16:30:00Z,Alfie Whiteman,Spurs,0.03351347003185211,40
+Tom McGill2023-09-30T11:30:00Z,Tom McGill,Brighton,0.03236963821593713,39
+Kjell Scherpen2023-09-30T11:30:00Z,Kjell Scherpen,Brighton,0.03229751925413578,40
+Viljami Sinisalo2023-09-30T11:30:00Z,Viljami Sinisalo,Aston Villa,0.03020497254547442,40
+Daniel Bentley2023-09-30T14:00:00Z,Daniel Bentley,Wolves,0.02915843919640043,40
+Tom King2023-09-30T14:00:00Z,Tom King,Wolves,0.029002211384246482,40
+Brandon Austin2023-09-30T16:30:00Z,Brandon Austin,Spurs,0.02723314206544011,40
+Darren Randolph2023-09-30T14:00:00Z,Darren Randolph,Bournemouth,0.02702107186648821,40
+Matija Šarkić2023-09-30T14:00:00Z,Matija Šarkić,Wolves,0.02416820769521808,40
+Joe Whitworth2023-09-30T14:00:00Z,Joe Whitworth,Crystal Palace,0.023433775713896012,40
+Lawrence Vigouroux2023-10-03T18:30:00Z,Lawrence Vigouroux,Burnley,0.02158522607404801,40
+Bailey Peacock-Farrell2023-10-03T18:30:00Z,Bailey Peacock-Farrell,Burnley,0.02158522607404801,40
+Denis Franchi2023-10-03T18:30:00Z,Denis Franchi,Burnley,0.02158522607404801,40
+Remi Matthews2023-09-30T14:00:00Z,Remi Matthews,Crystal Palace,0.020357669654447588,40
